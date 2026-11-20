@@ -1,0 +1,83 @@
+[
+  {
+    "id": "cold",
+    "act": "cold_open",
+    "file": "score/cold.mp3",
+    "delay": 0.0,
+    "duration": 44.513,
+    "source": "D Minor Underscore.mp3",
+    "gainDb": -10
+  },
+  {
+    "id": "rule",
+    "act": "rule",
+    "file": "score/rule.mp3",
+    "delay": 0.6,
+    "duration": 65.359,
+    "source": "Analog Drone Underscore (Take 2).mp3",
+    "gainDb": -24
+  },
+  {
+    "id": "act1",
+    "act": "act1",
+    "file": "score/act1.mp3",
+    "delay": 0.0,
+    "duration": 102.941,
+    "source": "Observation in Dm-Em.mp3",
+    "gainDb": -18
+  },
+  {
+    "id": "act2",
+    "act": "act2",
+    "file": "score/act2.mp3",
+    "delay": 0.0,
+    "duration": 155.947,
+    "source": "Detuned Chamber Underscore.mp3",
+    "gainDb": -16
+  },
+  {
+    "id": "act3",
+    "act": "act3",
+    "file": "score/act3.mp3",
+    "delay": -6.272,
+    "duration": 153.438,
+    "source": "C-Sharp Minor Cello Drone (Take 2).mp3",
+    "gainDb": -20
+  },
+  {
+    "id": "market",
+    "act": "act4",
+    "file": "score/market.mp3",
+    "delay": 0.0,
+    "duration": 172.0,
+    "source": "Dark F Minor Tension.mp3",
+    "gainDb": -22
+  },
+  {
+    "id": "act6",
+    "act": "act6",
+    "file": "score/act6.mp3",
+    "delay": 0.0,
+    "duration": 73.579,
+    "source": "Gallery Silence.mp3",
+    "gainDb": -20
+  },
+  {
+    "id": "act7",
+    "act": "act7",
+    "file": "score/act7.mp3",
+    "delay": 0.0,
+    "duration": 56.208,
+    "source": "Uncertain Swell.mp3",
+    "gainDb": -18
+  },
+  {
+    "id": "close",
+    "act": "close",
+    "file": "score/close.mp3",
+    "delay": 0.0,
+    "duration": 44.812,
+    "source": "Felt & Cello Resolution.mp3",
+    "gainDb": -16
+  }
+]

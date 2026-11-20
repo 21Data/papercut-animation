@@ -1,0 +1,27 @@
+{
+  "name": "bank-balance",
+  "version": "1.0.0",
+  "private": true,
+  "description": "What if everyone could see your bank balance - 2.5D paper cutout essay",
+  "scripts": {
+    "studio": "remotion studio src/index.ts",
+    "render": "remotion render src/index.ts BankBalance out/bank-balance.mp4",
+    "render:stills": "remotion still src/index.ts BankBalance out/still.png --frame=200",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.290",
+    "@remotion/google-fonts": "4.0.290",
+    "@remotion/paths": "4.0.290",
+    "@remotion/player": "4.0.290",
+    "@remotion/transitions": "^4.0.290",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "remotion": "4.0.290"
+  },
+  "devDependencies": {
+    "@types/react": "18.3.12",
+    "@types/react-dom": "18.3.1",
+    "typescript": "5.7.2"
+  }
+}

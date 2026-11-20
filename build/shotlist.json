@@ -1,0 +1,5430 @@
+{
+ "version": 1,
+ "fps": 60,
+ "totalDuration": 896.337,
+ "shotCount": 143,
+ "averageShotLength": 6.27,
+ "acts": [
+  {
+   "id": "cold_open",
+   "title": "COLD OPEN",
+   "start": 0.0,
+   "end": 44.513,
+   "duration": 44.513,
+   "color": {
+    "bg": "#1A1614",
+    "accent": "#E8B04B",
+    "temp": "warm",
+    "name": "Candlelit Amber & Charcoal"
+   },
+   "chapterPause": 0.0,
+   "shots": [
+    {
+     "index": 1,
+     "start": 0.0,
+     "end": 7.1,
+     "duration": 7.1,
+     "startFrame": 0,
+     "endFrame": 426,
+     "asset": "Hands_resting_near_restaurant_bill_bd20dbf1.jpg",
+     "assetHandle": "bill",
+     "assetPath": "images/Hands_resting_near_restaurant_bill_bd20dbf1.jpg",
+     "camera": "pushIn",
+     "hud": "none",
+     "hudAnchors": [],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": true,
+     "note": "POWER OPEN: the object before the person",
+     "globalIndex": 1
+    },
+    {
+     "index": 2,
+     "start": 7.1,
+     "end": 9.8,
+     "duration": 2.7,
+     "startFrame": 426,
+     "endFrame": 588,
+     "asset": "Six_adults_eating_at_restaurant_81847176.jpg",
+     "assetHandle": "dinner_wide",
+     "assetPath": "images/Six_adults_eating_at_restaurant_81847176.jpg",
+     "camera": "crashZoom",
+     "hud": "six",
+     "hudAnchors": [
+      {
+       "x": 27.3,
+       "y": 36.0,
+       "v": 142890.12,
+       "s": 0.78
+      },
+      {
+       "x": 34.1,
+       "y": 28.0,
+       "v": 4120.5,
+       "s": 0.78
+      },
+      {
+       "x": 40.4,
+       "y": 37.5,
+       "v": 812.0,
+       "s": 0.78
+      },
+      {
+       "x": 60.6,
+       "y": 37.5,
+       "v": 19400.0,
+       "s": 0.78
+      },
+      {
+       "x": 67.1,
+       "y": 28.0,
+       "v": 68210.0,
+       "s": 0.78
+      },
+      {
+       "x": 73.7,
+       "y": 36.0,
+       "v": 43.18,
+       "s": 0.78
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": true,
+     "note": "yank back to reveal the whole table",
+     "globalIndex": 2
+    },
+    {
+     "index": 3,
+     "start": 9.8,
+     "end": 11.3,
+     "duration": 1.5,
+     "startFrame": 588,
+     "endFrame": 678,
+     "asset": "steak_macro_a14df02c_2K.jpg",
+     "assetHandle": "steak_macro",
+     "assetPath": "images/steak_macro_a14df02c_2K.jpg",
+     "camera": "snapZoom",
+     "hud": "none",
+     "hudAnchors": [],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": false,
+     "note": "who ordered the steak",
+     "globalIndex": 3
+    },
+    {
+     "index": 4,
+     "start": 11.3,
+     "end": 12.48,
+     "duration": 1.18,
+     "startFrame": 678,
+     "endFrame": 749,
+     "asset": "soup_macro_a50c51cb_2K.jpg",
+     "assetHandle": "soup_macro",
+     "assetPath": "images/soup_macro_a50c51cb_2K.jpg",
+     "camera": "whipPan",
+     "hud": "none",
+     "hudAnchors": [],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": true,
+     "note": "who ordered the soup",
+     "globalIndex": 4
+    },
+    {
+     "index": 5,
+     "start": 12.48,
+     "end": 16.2,
+     "duration": 3.72,
+     "startFrame": 749,
+     "endFrame": 972,
+     "asset": "Anxious_diner_paper_portrait_b50a2c0f_2K.jpg",
+     "assetHandle": "anxious",
+     "assetPath": "images/Anxious_diner_paper_portrait_b50a2c0f_2K.jpg",
+     "camera": "snapZoom",
+     "hud": "hero",
+     "hudAnchors": [
+      {
+       "x": 50.0,
+       "y": 15.0,
+       "v": 43.18
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": false,
+     "note": "HOOK: face lands as the list completes",
+     "globalIndex": 5
+    },
+    {
+     "index": 6,
+     "start": 16.2,
+     "end": 23.74,
+     "duration": 7.54,
+     "startFrame": 972,
+     "endFrame": 1424,
+     "asset": "Dinner_guests_sitting_together_c051a246_2K (1).jpg",
+     "assetHandle": "dinner_3shot",
+     "assetPath": "images/Dinner_guests_sitting_together_c051a246_2K (1).jpg",
+     "camera": "dollyLateral",
+     "hud": "six",
+     "hudAnchors": [
+      {
+       "x": 21.3,
+       "y": 33.0,
+       "v": 812.0,
+       "s": 0.9
+      },
+      {
+       "x": 50.0,
+       "y": 37.0,
+       "v": 43.18,
+       "s": 0.9
+      },
+      {
+       "x": 79.7,
+       "y": 34.5,
+       "v": 19400.0,
+       "s": 0.9
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": false,
+     "note": "three faces, three numbers",
+     "globalIndex": 6
+    },
+    {
+     "index": 7,
+     "start": 23.74,
+     "end": 27.6,
+     "duration": 3.86,
+     "startFrame": 1424,
+     "endFrame": 1656,
+     "asset": "Friends_dining_at_restaurant_table_80061dc6.jpg",
+     "assetHandle": "dinner_alt",
+     "assetPath": "images/Friends_dining_at_restaurant_table_80061dc6.jpg",
+     "camera": "handheldDrift",
+     "hud": "six",
+     "hudAnchors": [
+      {
+       "x": 22.3,
+       "y": 23.5,
+       "v": 142890.12,
+       "s": 0.78
+      },
+      {
+       "x": 32.1,
+       "y": 19.2,
+       "v": 4120.5,
+       "s": 0.78
+      },
+      {
+       "x": 44.0,
+       "y": 17.0,
+       "v": 812.0,
+       "s": 0.78
+      },
+      {
+       "x": 57.3,
+       "y": 16.5,
+       "v": 19400.0,
+       "s": 0.78
+      },
+      {
+       "x": 69.7,
+       "y": 22.0,
+       "v": 68210.0,
+       "s": 0.78
+      },
+      {
+       "x": 78.0,
+       "y": 24.5,
+       "v": 43.18,
+       "s": 0.78
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": true,
+     "note": "nobody will look at anybody",
+     "globalIndex": 7
+    },
+    {
+     "index": 8,
+     "start": 27.6,
+     "end": 31.42,
+     "duration": 3.82,
+     "startFrame": 1656,
+     "endFrame": 1885,
+     "asset": "Hands_resting_near_restaurant_bill_bd20dbf1.jpg",
+     "assetHandle": "bill",
+     "assetPath": "images/Hands_resting_near_restaurant_bill_bd20dbf1.jpg",
+     "camera": "pushIn",
+     "hud": "none",
+     "hudAnchors": [],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": false,
+     "note": "a hand covers it - thesis in one gesture",
+     "globalIndex": 8
+    },
+    {
+     "index": 9,
+     "start": 31.42,
+     "end": 37.42,
+     "duration": 6.0,
+     "startFrame": 1885,
+     "endFrame": 2245,
+     "asset": "thursday_city_9edfd1d8_2K.jpg",
+     "assetHandle": "thursday_city",
+     "assetPath": "images/thursday_city_9edfd1d8_2K.jpg",
+     "camera": "dollyLateral",
+     "hud": "many",
+     "hudAnchors": [
+      {
+       "x": 12.0,
+       "y": 32.0,
+       "v": 2460,
+       "s": 0.62
+      },
+      {
+       "x": 22.0,
+       "y": 28.0,
+       "v": 17900,
+       "s": 0.62
+      },
+      {
+       "x": 30.0,
+       "y": 34.0,
+       "v": 812,
+       "s": 0.62
+      },
+      {
+       "x": 40.0,
+       "y": 34.0,
+       "v": 68210,
+       "s": 0.62
+      },
+      {
+       "x": 50.0,
+       "y": 26.0,
+       "v": 1240,
+       "s": 0.62
+      },
+      {
+       "x": 60.0,
+       "y": 32.0,
+       "v": 86300,
+       "s": 0.62
+      },
+      {
+       "x": 74.0,
+       "y": 30.0,
+       "v": 4120,
+       "s": 0.62
+      },
+      {
+       "x": 84.0,
+       "y": 26.0,
+       "v": 19400,
+       "s": 0.62
+      },
+      {
+       "x": 92.0,
+       "y": 32.0,
+       "v": 43.18,
+       "s": 0.62
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": false,
+     "note": "by Thursday through become honest",
+     "globalIndex": 9
+    },
+    {
+     "index": 10,
+     "start": 37.42,
+     "end": 40.4,
+     "duration": 2.98,
+     "startFrame": 2245,
+     "endFrame": 2424,
+     "asset": "Anxious_diner_paper_portrait_b50a2c0f_2K.jpg",
+     "assetHandle": "anxious",
+     "assetPath": "images/Anxious_diner_paper_portrait_b50a2c0f_2K.jpg",
+     "camera": "pushIn",
+     "hud": "hero",
+     "hudAnchors": [
+      {
+       "x": 50.0,
+       "y": 15.0,
+       "v": 43.18
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": false,
+     "note": "because they couldn't",
+     "globalIndex": 10
+    },
+    {
+     "index": 11,
+     "start": 40.4,
+     "end": 44.51,
+     "duration": 4.11,
+     "startFrame": 2424,
+     "endFrame": 2671,
+     "asset": "Six_adults_eating_at_restaurant_81847176.jpg",
+     "assetHandle": "dinner_wide",
+     "assetPath": "images/Six_adults_eating_at_restaurant_81847176.jpg",
+     "camera": "pushIn",
+     "hud": "six",
+     "hudAnchors": [
+      {
+       "x": 27.3,
+       "y": 36.0,
+       "v": 142890.12,
+       "s": 0.78
+      },
+      {
+       "x": 34.1,
+       "y": 28.0,
+       "v": 4120.5,
+       "s": 0.78
+      },
+      {
+       "x": 40.4,
+       "y": 37.5,
+       "v": 812.0,
+       "s": 0.78
+      },
+      {
+       "x": 60.6,
+       "y": 37.5,
+       "v": 19400.0,
+       "s": 0.78
+      },
+      {
+       "x": 67.1,
+       "y": 28.0,
+       "v": 68210.0,
+       "s": 0.78
+      },
+      {
+       "x": 73.7,
+       "y": 36.0,
+       "v": 43.18,
+       "s": 0.78
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": false,
+     "note": "this is what actually happens",
+     "globalIndex": 11
+    }
+   ]
+  },
+  {
+   "id": "rule",
+   "title": "THE RULE OF THIS WORLD",
+   "start": 44.513,
+   "end": 110.472,
+   "duration": 65.959,
+   "color": {
+    "bg": "#C9B999",
+    "accent": "#3D4A5C",
+    "temp": "neutral",
+    "name": "Manila Folder & Morning Cream"
+   },
+   "chapterPause": 0.0,
+   "shots": [
+    {
+     "index": 1,
+     "start": 44.51,
+     "end": 49.83,
+     "duration": 5.32,
+     "startFrame": 2671,
+     "endFrame": 2990,
+     "asset": "Paper_cutout_man_holding_cup_decb5631_2K.jpg",
+     "assetHandle": "man_cup",
+     "assetPath": "images/Paper_cutout_man_holding_cup_decb5631_2K.jpg",
+     "camera": "pushIn",
+     "hud": "one",
+     "hudAnchors": [
+      {
+       "x": 49.5,
+       "y": 18,
+       "v": 3412.88
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": false,
+     "note": "the every-person, blueprint void",
+     "globalIndex": 12
+    },
+    {
+     "index": 2,
+     "start": 49.83,
+     "end": 58.45,
+     "duration": 8.62,
+     "startFrame": 2990,
+     "endFrame": 3507,
+     "asset": "earth_crowd_4f616369_2K.jpg",
+     "assetHandle": "earth_crowd",
+     "assetPath": "images/earth_crowd_4f616369_2K.jpg",
+     "camera": "pushIn",
+     "hud": "many",
+     "hudAnchors": [
+      {
+       "x": 6.0,
+       "y": 74.0,
+       "v": 142890,
+       "s": 0.46
+      },
+      {
+       "x": 14.0,
+       "y": 74.0,
+       "v": 4120,
+       "s": 0.46
+      },
+      {
+       "x": 20.0,
+       "y": 73.0,
+       "v": 812,
+       "s": 0.46
+      },
+      {
+       "x": 26.0,
+       "y": 72.0,
+       "v": 19400,
+       "s": 0.46
+      },
+      {
+       "x": 33.0,
+       "y": 71.0,
+       "v": 68210,
+       "s": 0.46
+      },
+      {
+       "x": 39.0,
+       "y": 72.0,
+       "v": 43.18,
+       "s": 0.46
+      },
+      {
+       "x": 45.0,
+       "y": 72.0,
+       "v": 17900,
+       "s": 0.46
+      },
+      {
+       "x": 51.0,
+       "y": 70.0,
+       "v": 2460,
+       "s": 0.46
+      },
+      {
+       "x": 57.0,
+       "y": 71.0,
+       "v": 1240,
+       "s": 0.46
+      },
+      {
+       "x": 63.0,
+       "y": 72.0,
+       "v": 86300,
+       "s": 0.46
+      },
+      {
+       "x": 70.0,
+       "y": 73.0,
+       "v": 280,
+       "s": 0.46
+      },
+      {
+       "x": 77.0,
+       "y": 74.0,
+       "v": 62.1,
+       "s": 0.46
+      },
+      {
+       "x": 84.0,
+       "y": 73.0,
+       "v": 84000,
+       "s": 0.46
+      },
+      {
+       "x": 91.0,
+       "y": 74.0,
+       "v": 3100,
+       "s": 0.46
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": false,
+     "note": "every person on Earth, floating numbers",
+     "globalIndex": 13
+    },
+    {
+     "index": 3,
+     "start": 58.45,
+     "end": 61.11,
+     "duration": 2.66,
+     "startFrame": 3507,
+     "endFrame": 3667,
+     "asset": "rule_unhideable_7dc9906e_2K.jpg",
+     "assetHandle": "rule_unhideable",
+     "assetPath": "images/rule_unhideable_7dc9906e_2K.jpg",
+     "camera": "pushIn",
+     "hud": "none",
+     "hudAnchors": [],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": false,
+     "note": "it cannot be hidden, edited, or faked",
+     "globalIndex": 14
+    },
+    {
+     "index": 4,
+     "start": 61.11,
+     "end": 65.73,
+     "duration": 4.62,
+     "startFrame": 3667,
+     "endFrame": 3944,
+     "asset": "salary_debt_now_4aee7cf5_2K.jpg",
+     "assetHandle": "salary_debt_now",
+     "assetPath": "images/salary_debt_now_4aee7cf5_2K.jpg",
+     "camera": "pushIn",
+     "hud": "none",
+     "hudAnchors": [],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": true,
+     "note": "not salary, not debt — what you have now",
+     "globalIndex": 15
+    },
+    {
+     "index": 5,
+     "start": 65.73,
+     "end": 80.5,
+     "duration": 14.77,
+     "startFrame": 3944,
+     "endFrame": 4830,
+     "asset": "Paper_cutout_man_holding_cup_decb5631_2K.jpg",
+     "assetHandle": "man_cup",
+     "assetPath": "images/Paper_cutout_man_holding_cup_decb5631_2K.jpg",
+     "camera": "pushIn",
+     "hud": "one",
+     "hudAnchors": [
+      {
+       "x": 49.5,
+       "y": 18,
+       "v": 3412.88
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": false,
+     "note": "compared by. we already publish",
+     "globalIndex": 16
+    },
+    {
+     "index": 6,
+     "start": 80.5,
+     "end": 92.6,
+     "duration": 12.1,
+     "startFrame": 4830,
+     "endFrame": 5556,
+     "asset": "Paper_cutout_luxury_status_symbols_1ad9d226_2K (1).jpg",
+     "assetHandle": "status_flat",
+     "assetPath": "images/Paper_cutout_luxury_status_symbols_1ad9d226_2K (1).jpg",
+     "camera": "pushIn",
+     "hud": "none",
+     "hudAnchors": [],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": false,
+     "note": "car, house, job, clothes, watch, phone, street",
+     "globalIndex": 17
+    },
+    {
+     "index": 7,
+     "start": 92.6,
+     "end": 101.11,
+     "duration": 8.51,
+     "startFrame": 5556,
+     "endFrame": 6067,
+     "asset": "Paper_cutout_man_holding_cup_decb5631_2K.jpg",
+     "assetHandle": "man_cup",
+     "assetPath": "images/Paper_cutout_man_holding_cup_decb5631_2K.jpg",
+     "camera": "pushIn",
+     "hud": "one",
+     "hudAnchors": [
+      {
+       "x": 49.5,
+       "y": 18,
+       "v": 3412.88
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": false,
+     "note": "money is the one thing that stayed hidden",
+     "globalIndex": 18
+    },
+    {
+     "index": 8,
+     "start": 101.11,
+     "end": 102.57,
+     "duration": 1.46,
+     "startFrame": 6067,
+     "endFrame": 6154,
+     "asset": "leased_car_835d6d19_2K.jpg",
+     "assetHandle": "leased_car",
+     "assetPath": "images/leased_car_835d6d19_2K.jpg",
+     "camera": "pushIn",
+     "hud": "one",
+     "hudAnchors": [
+      {
+       "x": 26.0,
+       "y": 16.0,
+       "v": 114.2
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": false,
+     "note": "a car can be leased",
+     "globalIndex": 19
+    },
+    {
+     "index": 9,
+     "start": 102.57,
+     "end": 104.5,
+     "duration": 1.93,
+     "startFrame": 6154,
+     "endFrame": 6270,
+     "asset": "copied_coat_9d059af3_2K.jpg",
+     "assetHandle": "copied_coat",
+     "assetPath": "images/copied_coat_9d059af3_2K.jpg",
+     "camera": "pushIn",
+     "hud": "none",
+     "hudAnchors": [],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": false,
+     "note": "clothes can be copied",
+     "globalIndex": 20
+    },
+    {
+     "index": 10,
+     "start": 104.5,
+     "end": 110.47,
+     "duration": 5.97,
+     "startFrame": 6270,
+     "endFrame": 6628,
+     "asset": "Paper_cutout_man_holding_cup_decb5631_2K.jpg",
+     "assetHandle": "man_cup",
+     "assetPath": "images/Paper_cutout_man_holding_cup_decb5631_2K.jpg",
+     "camera": "pushIn",
+     "hud": "one",
+     "hudAnchors": [
+      {
+       "x": 49.5,
+       "y": 18,
+       "v": 3412.88
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": false,
+     "note": "the number cannot lie. hold.",
+     "globalIndex": 21
+    }
+   ]
+  },
+  {
+   "id": "act1",
+   "title": "THE FIRST 24 HOURS",
+   "start": 110.472,
+   "end": 213.413,
+   "duration": 102.941,
+   "color": {
+    "bg": "#6B7280",
+    "accent": "#9CA3AF",
+    "temp": "cold",
+    "name": "Overcast Slate"
+   },
+   "chapterPause": 2.5,
+   "shots": [
+    {
+     "index": 1,
+     "start": 110.47,
+     "end": 130.69,
+     "duration": 20.22,
+     "startFrame": 6628,
+     "endFrame": 7841,
+     "asset": "Suburban_street_paper_cutout_pan…_445a367d_2K.jpg",
+     "assetHandle": "street",
+     "assetPath": "images/Suburban_street_paper_cutout_pan…_445a367d_2K.jpg",
+     "camera": "dollyLateral",
+     "hud": "many",
+     "hudAnchors": [
+      {
+       "x": 6.3,
+       "y": 45,
+       "v": 84000,
+       "s": 0.72
+      },
+      {
+       "x": 18.8,
+       "y": 45,
+       "v": 4200,
+       "s": 0.72
+      },
+      {
+       "x": 31.3,
+       "y": 45,
+       "v": 2800,
+       "s": 0.72
+      },
+      {
+       "x": 43.8,
+       "y": 45,
+       "v": 62.1,
+       "s": 0.72
+      },
+      {
+       "x": 56.3,
+       "y": 45,
+       "v": 3100,
+       "s": 0.72
+      },
+      {
+       "x": 68.8,
+       "y": 45,
+       "v": 68.2,
+       "s": 0.72
+      },
+      {
+       "x": 81.3,
+       "y": 45,
+       "v": 91000,
+       "s": 0.72
+      },
+      {
+       "x": 93.8,
+       "y": 45,
+       "v": 2400,
+       "s": 0.72
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": false,
+     "note": "the street looks uniform",
+     "globalIndex": 22
+    },
+    {
+     "index": 2,
+     "start": 130.69,
+     "end": 142.65,
+     "duration": 11.96,
+     "startFrame": 7841,
+     "endFrame": 8559,
+     "asset": "Paper_dollhouse_rooms_depicting_…_fc825c5c_2K (1).jpg",
+     "assetHandle": "dollhouse",
+     "assetPath": "images/Paper_dollhouse_rooms_depicting_…_fc825c5c_2K (1).jpg",
+     "camera": "pushIn",
+     "hud": "many",
+     "hudAnchors": [
+      {
+       "x": 15.9,
+       "y": 53.5,
+       "v": 84000.0,
+       "s": 0.78
+      },
+      {
+       "x": 27.8,
+       "y": 56.5,
+       "v": 62000.0,
+       "s": 0.78
+      },
+      {
+       "x": 43.1,
+       "y": 51.0,
+       "v": 2800.0,
+       "s": 0.78
+      },
+      {
+       "x": 50.5,
+       "y": 55.8,
+       "v": 2400.0,
+       "s": 0.78
+      },
+      {
+       "x": 56.5,
+       "y": 51.2,
+       "v": 3100.0,
+       "s": 0.78
+      },
+      {
+       "x": 82.5,
+       "y": 56.8,
+       "v": 62.1,
+       "s": 0.78
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": true,
+     "note": "savings, buffer, payslips",
+     "globalIndex": 23
+    },
+    {
+     "index": 3,
+     "start": 142.65,
+     "end": 149.37,
+     "duration": 6.72,
+     "startFrame": 8559,
+     "endFrame": 8962,
+     "asset": "Paper_tire_rolling_over_nail_d8449620_2K (1).jpg",
+     "assetHandle": "tire",
+     "assetPath": "images/Paper_tire_rolling_over_nail_d8449620_2K (1).jpg",
+     "camera": "crashZoom",
+     "hud": "none",
+     "hudAnchors": [],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": true,
+     "note": "one flat tire from a bad month",
+     "globalIndex": 24
+    },
+    {
+     "index": 4,
+     "start": 149.37,
+     "end": 175.35,
+     "duration": 25.98,
+     "startFrame": 8962,
+     "endFrame": 10521,
+     "asset": "Shopper_stepping_out_of_boutique_743b307f_2K (1).jpg",
+     "assetHandle": "shopper",
+     "assetPath": "images/Shopper_stepping_out_of_boutique_743b307f_2K (1).jpg",
+     "camera": "pushIn",
+     "hud": "drop",
+     "hudAnchors": [
+      {
+       "x": 55,
+       "y": 26,
+       "v": 1200,
+       "to": 850
+      }
+     ],
+     "hudFall": true,
+     "blank": false,
+     "cutOnBreath": false,
+     "note": "the coat, Saturday, the number falls",
+     "globalIndex": 25
+    },
+    {
+     "index": 5,
+     "start": 175.35,
+     "end": 178.13,
+     "duration": 2.78,
+     "startFrame": 10521,
+     "endFrame": 10688,
+     "asset": "coat_glance_fc56dfcb_2K.jpg",
+     "assetHandle": "coat_glance",
+     "assetPath": "images/coat_glance_fc56dfcb_2K.jpg",
+     "camera": "pushIn",
+     "hud": "many",
+     "hudAnchors": [
+      {
+       "x": 16.0,
+       "y": 20.0,
+       "v": 42000,
+       "s": 0.78
+      },
+      {
+       "x": 24.0,
+       "y": 30.0,
+       "v": 8600,
+       "s": 0.78
+      },
+      {
+       "x": 48.0,
+       "y": 34.0,
+       "v": 850,
+       "s": 0.78
+      },
+      {
+       "x": 74.0,
+       "y": 38.0,
+       "v": 2400,
+       "s": 0.78
+      },
+      {
+       "x": 88.0,
+       "y": 24.0,
+       "v": 680,
+       "s": 0.78
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": false,
+     "note": "they look around to see who noticed",
+     "globalIndex": 26
+    },
+    {
+     "index": 6,
+     "start": 178.13,
+     "end": 188.44,
+     "duration": 10.31,
+     "startFrame": 10688,
+     "endFrame": 11306,
+     "asset": "Figures_scurrying_past_convenien…_1d84a896_2K (1).jpg",
+     "assetHandle": "alley",
+     "assetPath": "images/Figures_scurrying_past_convenien…_1d84a896_2K (1).jpg",
+     "camera": "pushIn",
+     "hud": "many",
+     "hudAnchors": [
+      {
+       "x": 19.6,
+       "y": 39.0,
+       "v": 41.2,
+       "s": 0.9
+      },
+      {
+       "x": 37.5,
+       "y": 38.5,
+       "v": 18.4,
+       "s": 0.9
+      },
+      {
+       "x": 55.2,
+       "y": 39.0,
+       "v": 62.1,
+       "s": 0.9
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": false,
+     "note": "by evening, shopping at night",
+     "globalIndex": 27
+    },
+    {
+     "index": 7,
+     "start": 188.44,
+     "end": 202.01,
+     "duration": 13.57,
+     "startFrame": 11306,
+     "endFrame": 12121,
+     "asset": "Man_lowering_theater_mask_c99b05c5_2K.jpg",
+     "assetHandle": "mask_off",
+     "assetPath": "images/Man_lowering_theater_mask_c99b05c5_2K.jpg",
+     "camera": "dollyLateral",
+     "hud": "none",
+     "hudAnchors": [],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": false,
+     "note": "relief. the mask comes off",
+     "globalIndex": 28
+    },
+    {
+     "index": 8,
+     "start": 202.01,
+     "end": 209.83,
+     "duration": 7.82,
+     "startFrame": 12121,
+     "endFrame": 12590,
+     "asset": "Two_men_expressing_mutual_unders…_a5b3c373_2K.jpg",
+     "assetHandle": "two_men",
+     "assetPath": "images/Two_men_expressing_mutual_unders…_a5b3c373_2K.jpg",
+     "camera": "pushIn",
+     "hud": "none",
+     "hudAnchors": [],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": false,
+     "note": "two men. one honest transaction.",
+     "globalIndex": 29
+    },
+    {
+     "index": 9,
+     "start": 209.83,
+     "end": 211.8,
+     "duration": 1.97,
+     "startFrame": 12590,
+     "endFrame": 12708,
+     "asset": "Paper_figures_beneath_floating_v…_bef50d7f_2K.jpg",
+     "assetHandle": "floating_value",
+     "assetPath": "images/Paper_figures_beneath_floating_v…_bef50d7f_2K.jpg",
+     "camera": "dollyLateral",
+     "hud": "many",
+     "hudAnchors": [
+      {
+       "x": 33,
+       "y": 24,
+       "v": 2460
+      },
+      {
+       "x": 42,
+       "y": 22,
+       "v": 17900
+      },
+      {
+       "x": 51,
+       "y": 22,
+       "v": 812.0
+      },
+      {
+       "x": 60,
+       "y": 22,
+       "v": 68210
+      },
+      {
+       "x": 69,
+       "y": 24,
+       "v": 1240
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": false,
+     "note": "the comparison began",
+     "globalIndex": 30
+    },
+    {
+     "index": 10,
+     "start": 211.8,
+     "end": 213.41,
+     "duration": 1.61,
+     "startFrame": 12708,
+     "endFrame": 12805,
+     "asset": "Six_adults_eating_at_restaurant_81847176.jpg",
+     "assetHandle": "dinner_wide",
+     "assetPath": "images/Six_adults_eating_at_restaurant_81847176.jpg",
+     "camera": "pushIn",
+     "hud": "six",
+     "hudAnchors": [
+      {
+       "x": 27.3,
+       "y": 36.0,
+       "v": 142890.12,
+       "s": 0.78
+      },
+      {
+       "x": 34.1,
+       "y": 28.0,
+       "v": 4120.5,
+       "s": 0.78
+      },
+      {
+       "x": 40.4,
+       "y": 37.5,
+       "v": 812.0,
+       "s": 0.78
+      },
+      {
+       "x": 60.6,
+       "y": 37.5,
+       "v": 19400.0,
+       "s": 0.78
+      },
+      {
+       "x": 67.1,
+       "y": 28.0,
+       "v": 68210.0,
+       "s": 0.78
+      },
+      {
+       "x": 73.7,
+       "y": 36.0,
+       "v": 43.18,
+       "s": 0.78
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": false,
+     "note": "bookend back to the table",
+     "globalIndex": 31
+    }
+   ]
+  },
+  {
+   "id": "act2",
+   "title": "THE ETIQUETTE COLLAPSE",
+   "start": 213.413,
+   "end": 374.032,
+   "duration": 160.619,
+   "color": {
+    "bg": "#4A3B52",
+    "accent": "#7C6B85",
+    "temp": "cold",
+    "name": "Bruised Plum & Cold Blue"
+   },
+   "chapterPause": 2.5,
+   "shots": [
+    {
+     "index": 1,
+     "start": 213.41,
+     "end": 218.99,
+     "duration": 5.57,
+     "startFrame": 12805,
+     "endFrame": 13139,
+     "asset": "Office_workers_walking_in_hallway_98e59dfd_2K (1).jpg",
+     "assetHandle": "hallway",
+     "assetPath": "images/Office_workers_walking_in_hallway_98e59dfd_2K (1).jpg",
+     "camera": "dollyLateral",
+     "hud": "many",
+     "hudAnchors": [
+      {
+       "x": 33.9,
+       "y": 27.0,
+       "v": 6400.0
+      },
+      {
+       "x": 68.1,
+       "y": 27.5,
+       "v": 128.4
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": false,
+     "note": "how are you stops working",
+     "globalIndex": 32
+    },
+    {
+     "index": 2,
+     "start": 218.99,
+     "end": 221.29,
+     "duration": 2.31,
+     "startFrame": 13139,
+     "endFrame": 13278,
+     "asset": "cracked_bubble_16ab1135_2K.jpg",
+     "assetHandle": "cracked_bubble",
+     "assetPath": "images/cracked_bubble_16ab1135_2K.jpg",
+     "camera": "dutchTilt",
+     "hud": "many",
+     "hudAnchors": [
+      {
+       "x": 30.0,
+       "y": 30.0,
+       "v": 6400
+      },
+      {
+       "x": 74.0,
+       "y": 34.0,
+       "v": 128.4
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": true,
+     "note": "a social handshake, cracked",
+     "globalIndex": 33
+    },
+    {
+     "index": 3,
+     "start": 221.29,
+     "end": 223.23,
+     "duration": 1.94,
+     "startFrame": 13278,
+     "endFrame": 13394,
+     "asset": "Office_workers_walking_in_hallway_98e59dfd_2K (1).jpg",
+     "assetHandle": "hallway",
+     "assetPath": "images/Office_workers_walking_in_hallway_98e59dfd_2K (1).jpg",
+     "camera": "dollyLateral",
+     "hud": "many",
+     "hudAnchors": [
+      {
+       "x": 33.9,
+       "y": 27.0,
+       "v": 6400.0
+      },
+      {
+       "x": 68.1,
+       "y": 27.5,
+       "v": 128.4
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": false,
+     "note": "the question, still walking",
+     "globalIndex": 34
+    },
+    {
+     "index": 4,
+     "start": 223.23,
+     "end": 229.33,
+     "duration": 6.1,
+     "startFrame": 13394,
+     "endFrame": 13760,
+     "asset": "Office_workers_walking_in_hallway_98e59dfd_2K (1).jpg",
+     "assetHandle": "hallway",
+     "assetPath": "images/Office_workers_walking_in_hallway_98e59dfd_2K (1).jpg",
+     "camera": "pushIn",
+     "hud": "many",
+     "hudAnchors": [
+      {
+       "x": 33.9,
+       "y": 27.0,
+       "v": 6400.0
+      },
+      {
+       "x": 68.1,
+       "y": 27.5,
+       "v": 128.4
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": true,
+     "note": "a handshake, not an answer",
+     "globalIndex": 35
+    },
+    {
+     "index": 5,
+     "start": 229.33,
+     "end": 235.59,
+     "duration": 6.26,
+     "startFrame": 13760,
+     "endFrame": 14136,
+     "asset": "Office_workers_walking_in_hallway_98e59dfd_2K (1).jpg",
+     "assetHandle": "hallway",
+     "assetPath": "images/Office_workers_walking_in_hallway_98e59dfd_2K (1).jpg",
+     "camera": "dutchTilt",
+     "hud": "many",
+     "hudAnchors": [
+      {
+       "x": 33.9,
+       "y": 27.0,
+       "v": 6400.0
+      },
+      {
+       "x": 68.1,
+       "y": 27.5,
+       "v": 128.4
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": true,
+     "note": "the question has an answer now",
+     "globalIndex": 36
+    },
+    {
+     "index": 6,
+     "start": 235.59,
+     "end": 242.49,
+     "duration": 6.9,
+     "startFrame": 14136,
+     "endFrame": 14550,
+     "asset": "Paper_customers_in_coffee_shop_28032a7d.jpg",
+     "assetHandle": "cafe",
+     "assetPath": "images/Paper_customers_in_coffee_shop_28032a7d.jpg",
+     "camera": "craneUp",
+     "hud": "many",
+     "hudAnchors": [
+      {
+       "x": 32.7,
+       "y": 39.5,
+       "v": 1240.0,
+       "s": 0.78
+      },
+      {
+       "x": 39.5,
+       "y": 41.5,
+       "v": 86300.0,
+       "s": 0.78
+      },
+      {
+       "x": 45.2,
+       "y": 39.2,
+       "v": 3120.0,
+       "s": 0.78
+      },
+      {
+       "x": 60.1,
+       "y": 48.8,
+       "v": 128.4,
+       "s": 0.78
+      },
+      {
+       "x": 72.2,
+       "y": 46.5,
+       "v": 17900.0,
+       "s": 0.78
+      },
+      {
+       "x": 84.5,
+       "y": 50.2,
+       "v": 2460.0,
+       "s": 0.78
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": true,
+     "note": "numerals above every head",
+     "globalIndex": 37
+    },
+    {
+     "index": 7,
+     "start": 242.49,
+     "end": 247.56,
+     "duration": 5.06,
+     "startFrame": 14550,
+     "endFrame": 14853,
+     "asset": "Paper_customers_in_coffee_shop_28032a7d.jpg",
+     "assetHandle": "cafe",
+     "assetPath": "images/Paper_customers_in_coffee_shop_28032a7d.jpg",
+     "camera": "rackFocus",
+     "hud": "many",
+     "hudAnchors": [
+      {
+       "x": 32.7,
+       "y": 39.5,
+       "v": 1240.0,
+       "s": 0.78
+      },
+      {
+       "x": 39.5,
+       "y": 41.5,
+       "v": 86300.0,
+       "s": 0.78
+      },
+      {
+       "x": 45.2,
+       "y": 39.2,
+       "v": 3120.0,
+       "s": 0.78
+      },
+      {
+       "x": 60.1,
+       "y": 48.8,
+       "v": 128.4,
+       "s": 0.78
+      },
+      {
+       "x": 72.2,
+       "y": 46.5,
+       "v": 17900.0,
+       "s": 0.78
+      },
+      {
+       "x": 84.5,
+       "y": 50.2,
+       "v": 2460.0,
+       "s": 0.78
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": false,
+     "note": "so people stop asking",
+     "globalIndex": 38
+    },
+    {
+     "index": 8,
+     "start": 247.56,
+     "end": 254.75,
+     "duration": 7.2,
+     "startFrame": 14853,
+     "endFrame": 15285,
+     "asset": "Customer_sitting_in_empty_café_cee33b1e_2K.jpg",
+     "assetHandle": "cafe_empty",
+     "assetPath": "images/Customer_sitting_in_empty_café_cee33b1e_2K.jpg",
+     "camera": "dollyLateral",
+     "hud": "one",
+     "hudAnchors": [
+      {
+       "x": 44.8,
+       "y": 42,
+       "v": 128.4
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": true,
+     "note": "small talk collapses",
+     "globalIndex": 39
+    },
+    {
+     "index": 9,
+     "start": 254.75,
+     "end": 258.79,
+     "duration": 4.04,
+     "startFrame": 15285,
+     "endFrame": 15528,
+     "asset": "Paper_customers_in_coffee_shop_28032a7d.jpg",
+     "assetHandle": "cafe",
+     "assetPath": "images/Paper_customers_in_coffee_shop_28032a7d.jpg",
+     "camera": "pushIn",
+     "hud": "many",
+     "hudAnchors": [
+      {
+       "x": 32.7,
+       "y": 39.5,
+       "v": 1240.0,
+       "s": 0.78
+      },
+      {
+       "x": 39.5,
+       "y": 41.5,
+       "v": 86300.0,
+       "s": 0.78
+      },
+      {
+       "x": 45.2,
+       "y": 39.2,
+       "v": 3120.0,
+       "s": 0.78
+      },
+      {
+       "x": 60.1,
+       "y": 48.8,
+       "v": 128.4,
+       "s": 0.78
+      },
+      {
+       "x": 72.2,
+       "y": 46.5,
+       "v": 17900.0,
+       "s": 0.78
+      },
+      {
+       "x": 84.5,
+       "y": 50.2,
+       "v": 2460.0,
+       "s": 0.78
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": true,
+     "note": "circumstances, revealed too fast",
+     "globalIndex": 40
+    },
+    {
+     "index": 10,
+     "start": 258.79,
+     "end": 264.99,
+     "duration": 6.2,
+     "startFrame": 15528,
+     "endFrame": 15900,
+     "asset": "Paper_customers_in_coffee_shop_28032a7d.jpg",
+     "assetHandle": "cafe",
+     "assetPath": "images/Paper_customers_in_coffee_shop_28032a7d.jpg",
+     "camera": "dollyLateral",
+     "hud": "many",
+     "hudAnchors": [
+      {
+       "x": 32.7,
+       "y": 39.5,
+       "v": 1240.0,
+       "s": 0.78
+      },
+      {
+       "x": 39.5,
+       "y": 41.5,
+       "v": 86300.0,
+       "s": 0.78
+      },
+      {
+       "x": 45.2,
+       "y": 39.2,
+       "v": 3120.0,
+       "s": 0.78
+      },
+      {
+       "x": 60.1,
+       "y": 48.8,
+       "v": 128.4,
+       "s": 0.78
+      },
+      {
+       "x": 72.2,
+       "y": 46.5,
+       "v": 17900.0,
+       "s": 0.78
+      },
+      {
+       "x": 84.5,
+       "y": 50.2,
+       "v": 2460.0,
+       "s": 0.78
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": true,
+     "note": "9am. nobody looks up",
+     "globalIndex": 41
+    },
+    {
+     "index": 11,
+     "start": 264.99,
+     "end": 270.06,
+     "duration": 5.07,
+     "startFrame": 15900,
+     "endFrame": 16203,
+     "asset": "Paper_customers_in_coffee_shop_28032a7d.jpg",
+     "assetHandle": "cafe",
+     "assetPath": "images/Paper_customers_in_coffee_shop_28032a7d.jpg",
+     "camera": "pushIn",
+     "hud": "many",
+     "hudAnchors": [
+      {
+       "x": 32.7,
+       "y": 39.5,
+       "v": 1240.0,
+       "s": 0.78
+      },
+      {
+       "x": 39.5,
+       "y": 41.5,
+       "v": 86300.0,
+       "s": 0.78
+      },
+      {
+       "x": 45.2,
+       "y": 39.2,
+       "v": 3120.0,
+       "s": 0.78
+      },
+      {
+       "x": 60.1,
+       "y": 48.8,
+       "v": 128.4,
+       "s": 0.78
+      },
+      {
+       "x": 72.2,
+       "y": 46.5,
+       "v": 17900.0,
+       "s": 0.78
+      },
+      {
+       "x": 84.5,
+       "y": 50.2,
+       "v": 2460.0,
+       "s": 0.78
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": false,
+     "note": "no eye contact above a head",
+     "globalIndex": 42
+    },
+    {
+     "index": 12,
+     "start": 270.06,
+     "end": 273.79,
+     "duration": 3.73,
+     "startFrame": 16203,
+     "endFrame": 16428,
+     "asset": "Paper_customers_in_coffee_shop_28032a7d.jpg",
+     "assetHandle": "cafe",
+     "assetPath": "images/Paper_customers_in_coffee_shop_28032a7d.jpg",
+     "camera": "snapZoom",
+     "hud": "many",
+     "hudAnchors": [
+      {
+       "x": 32.7,
+       "y": 39.5,
+       "v": 1240.0,
+       "s": 0.78
+      },
+      {
+       "x": 39.5,
+       "y": 41.5,
+       "v": 86300.0,
+       "s": 0.78
+      },
+      {
+       "x": 45.2,
+       "y": 39.2,
+       "v": 3120.0,
+       "s": 0.78
+      },
+      {
+       "x": 60.1,
+       "y": 48.8,
+       "v": 128.4,
+       "s": 0.78
+      },
+      {
+       "x": 72.2,
+       "y": 46.5,
+       "v": 17900.0,
+       "s": 0.78
+      },
+      {
+       "x": 84.5,
+       "y": 50.2,
+       "v": 2460.0,
+       "s": 0.78
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": true,
+     "note": "you look at a number the way you look at a scar",
+     "globalIndex": 43
+    },
+    {
+     "index": 13,
+     "start": 273.79,
+     "end": 278.11,
+     "duration": 4.32,
+     "startFrame": 16428,
+     "endFrame": 16687,
+     "asset": "Friends_packing_suitcase_and_pho…_0e5a8246_2K (1).jpg",
+     "assetHandle": "suitcase",
+     "assetPath": "images/Friends_packing_suitcase_and_pho…_0e5a8246_2K (1).jpg",
+     "camera": "craneUp",
+     "hud": "many",
+     "hudAnchors": [
+      {
+       "x": 15.9,
+       "y": 33.5,
+       "v": 2400.0,
+       "s": 0.9
+      },
+      {
+       "x": 26.3,
+       "y": 25.5,
+       "v": 1800.0,
+       "s": 0.9
+      },
+      {
+       "x": 37.7,
+       "y": 35.5,
+       "v": 3100.0,
+       "s": 0.9
+      },
+      {
+       "x": 71.0,
+       "y": 39.0,
+       "v": 19.4,
+       "s": 0.9
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": true,
+     "note": "then the small lies go",
+     "globalIndex": 44
+    },
+    {
+     "index": 14,
+     "start": 278.11,
+     "end": 285.01,
+     "duration": 6.9,
+     "startFrame": 16687,
+     "endFrame": 17101,
+     "asset": "Friends_packing_suitcase_and_pho…_0e5a8246_2K (1).jpg",
+     "assetHandle": "suitcase",
+     "assetPath": "images/Friends_packing_suitcase_and_pho…_0e5a8246_2K (1).jpg",
+     "camera": "pushIn",
+     "hud": "many",
+     "hudAnchors": [
+      {
+       "x": 15.9,
+       "y": 33.5,
+       "v": 2400.0,
+       "s": 0.9
+      },
+      {
+       "x": 26.3,
+       "y": 25.5,
+       "v": 1800.0,
+       "s": 0.9
+      },
+      {
+       "x": 37.7,
+       "y": 35.5,
+       "v": 3100.0,
+       "s": 0.9
+      },
+      {
+       "x": 71.0,
+       "y": 39.0,
+       "v": 19.4,
+       "s": 0.9
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": true,
+     "note": "I'm fine. I'm busy. It's on me.",
+     "globalIndex": 45
+    },
+    {
+     "index": 15,
+     "start": 285.01,
+     "end": 289.79,
+     "duration": 4.78,
+     "startFrame": 17101,
+     "endFrame": 17388,
+     "asset": "Friends_packing_suitcase_and_pho…_0e5a8246_2K (1).jpg",
+     "assetHandle": "suitcase",
+     "assetPath": "images/Friends_packing_suitcase_and_pho…_0e5a8246_2K (1).jpg",
+     "camera": "crashZoom",
+     "hud": "many",
+     "hudAnchors": [
+      {
+       "x": 15.9,
+       "y": 33.5,
+       "v": 2400.0,
+       "s": 0.9
+      },
+      {
+       "x": 26.3,
+       "y": 25.5,
+       "v": 1800.0,
+       "s": 0.9
+      },
+      {
+       "x": 37.7,
+       "y": 35.5,
+       "v": 3100.0,
+       "s": 0.9
+      },
+      {
+       "x": 71.0,
+       "y": 39.0,
+       "v": 19.4,
+       "s": 0.9
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": true,
+     "note": "no, really, I insist",
+     "globalIndex": 46
+    },
+    {
+     "index": 16,
+     "start": 289.79,
+     "end": 294.76,
+     "duration": 4.96,
+     "startFrame": 17388,
+     "endFrame": 17685,
+     "asset": "Office_workers_walking_in_hallway_98e59dfd_2K (1).jpg",
+     "assetHandle": "hallway",
+     "assetPath": "images/Office_workers_walking_in_hallway_98e59dfd_2K (1).jpg",
+     "camera": "handheldDrift",
+     "hud": "many",
+     "hudAnchors": [
+      {
+       "x": 33.9,
+       "y": 27.0,
+       "v": 6400.0
+      },
+      {
+       "x": 68.1,
+       "y": 27.5,
+       "v": 128.4
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": false,
+     "note": "the lies that protect dignity",
+     "globalIndex": 47
+    },
+    {
+     "index": 17,
+     "start": 294.76,
+     "end": 298.07,
+     "duration": 3.31,
+     "startFrame": 17685,
+     "endFrame": 17884,
+     "asset": "Friends_packing_suitcase_and_pho…_0e5a8246_2K (1).jpg",
+     "assetHandle": "suitcase",
+     "assetPath": "images/Friends_packing_suitcase_and_pho…_0e5a8246_2K (1).jpg",
+     "camera": "snapZoom",
+     "hud": "many",
+     "hudAnchors": [
+      {
+       "x": 15.9,
+       "y": 33.5,
+       "v": 2400.0,
+       "s": 0.9
+      },
+      {
+       "x": 26.3,
+       "y": 25.5,
+       "v": 1800.0,
+       "s": 0.9
+      },
+      {
+       "x": 37.7,
+       "y": 35.5,
+       "v": 3100.0,
+       "s": 0.9
+      },
+      {
+       "x": 71.0,
+       "y": 39.0,
+       "v": 19.4,
+       "s": 0.9
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": false,
+     "note": "a friend can't afford the trip",
+     "globalIndex": 48
+    },
+    {
+     "index": 18,
+     "start": 298.07,
+     "end": 302.73,
+     "duration": 4.67,
+     "startFrame": 17884,
+     "endFrame": 18164,
+     "asset": "Friends_packing_suitcase_and_pho…_0e5a8246_2K (1).jpg",
+     "assetHandle": "suitcase",
+     "assetPath": "images/Friends_packing_suitcase_and_pho…_0e5a8246_2K (1).jpg",
+     "camera": "rackFocus",
+     "hud": "many",
+     "hudAnchors": [
+      {
+       "x": 15.9,
+       "y": 33.5,
+       "v": 2400.0,
+       "s": 0.9
+      },
+      {
+       "x": 26.3,
+       "y": 25.5,
+       "v": 1800.0,
+       "s": 0.9
+      },
+      {
+       "x": 37.7,
+       "y": 35.5,
+       "v": 3100.0,
+       "s": 0.9
+      },
+      {
+       "x": 71.0,
+       "y": 39.0,
+       "v": 19.4,
+       "s": 0.9
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": true,
+     "note": "everyone lets them say they're busy",
+     "globalIndex": 49
+    },
+    {
+     "index": 19,
+     "start": 302.73,
+     "end": 306.67,
+     "duration": 3.94,
+     "startFrame": 18164,
+     "endFrame": 18400,
+     "asset": "Friends_packing_suitcase_and_pho…_0e5a8246_2K (1).jpg",
+     "assetHandle": "suitcase",
+     "assetPath": "images/Friends_packing_suitcase_and_pho…_0e5a8246_2K (1).jpg",
+     "camera": "dutchTilt",
+     "hud": "many",
+     "hudAnchors": [
+      {
+       "x": 15.9,
+       "y": 33.5,
+       "v": 2400.0,
+       "s": 0.9
+      },
+      {
+       "x": 26.3,
+       "y": 25.5,
+       "v": 1800.0,
+       "s": 0.9
+      },
+      {
+       "x": 37.7,
+       "y": 35.5,
+       "v": 3100.0,
+       "s": 0.9
+      },
+      {
+       "x": 71.0,
+       "y": 39.0,
+       "v": 19.4,
+       "s": 0.9
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": true,
+     "note": "the sentence is visible as a lie",
+     "globalIndex": 50
+    },
+    {
+     "index": 20,
+     "start": 306.67,
+     "end": 312.21,
+     "duration": 5.53,
+     "startFrame": 18400,
+     "endFrame": 18732,
+     "asset": "Office_workers_walking_in_hallway_98e59dfd_2K (1).jpg",
+     "assetHandle": "hallway",
+     "assetPath": "images/Office_workers_walking_in_hallway_98e59dfd_2K (1).jpg",
+     "camera": "pushIn",
+     "hud": "many",
+     "hudAnchors": [
+      {
+       "x": 33.9,
+       "y": 27.0,
+       "v": 6400.0
+      },
+      {
+       "x": 68.1,
+       "y": 27.5,
+       "v": 128.4
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": false,
+     "note": "take the office",
+     "globalIndex": 51
+    },
+    {
+     "index": 21,
+     "start": 312.21,
+     "end": 317.19,
+     "duration": 4.98,
+     "startFrame": 18732,
+     "endFrame": 19031,
+     "asset": "Office_workers_walking_in_hallway_98e59dfd_2K (1).jpg",
+     "assetHandle": "hallway",
+     "assetPath": "images/Office_workers_walking_in_hallway_98e59dfd_2K (1).jpg",
+     "camera": "pushIn",
+     "hud": "many",
+     "hudAnchors": [
+      {
+       "x": 33.9,
+       "y": 27.0,
+       "v": 6400.0
+      },
+      {
+       "x": 68.1,
+       "y": 27.5,
+       "v": 128.4
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": false,
+     "note": "fine is a claim that can be checked",
+     "globalIndex": 52
+    },
+    {
+     "index": 22,
+     "start": 317.19,
+     "end": 322.72,
+     "duration": 5.53,
+     "startFrame": 19031,
+     "endFrame": 19363,
+     "asset": "Office_workers_walking_in_hallway_98e59dfd_2K (1).jpg",
+     "assetHandle": "hallway",
+     "assetPath": "images/Office_workers_walking_in_hallway_98e59dfd_2K (1).jpg",
+     "camera": "pushIn",
+     "hud": "many",
+     "hudAnchors": [
+      {
+       "x": 33.9,
+       "y": 27.0,
+       "v": 6400.0
+      },
+      {
+       "x": 68.1,
+       "y": 27.5,
+       "v": 128.4
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": false,
+     "note": "so the question stops being asked",
+     "globalIndex": 53
+    },
+    {
+     "index": 23,
+     "start": 322.72,
+     "end": 327.7,
+     "duration": 4.98,
+     "startFrame": 19363,
+     "endFrame": 19662,
+     "asset": "Office_workers_walking_in_hallway_98e59dfd_2K (1).jpg",
+     "assetHandle": "hallway",
+     "assetPath": "images/Office_workers_walking_in_hallway_98e59dfd_2K (1).jpg",
+     "camera": "orbit",
+     "hud": "many",
+     "hudAnchors": [
+      {
+       "x": 33.9,
+       "y": 27.0,
+       "v": 6400.0
+      },
+      {
+       "x": 68.1,
+       "y": 27.5,
+       "v": 128.4
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": false,
+     "note": "asking it means asking about the number",
+     "globalIndex": 54
+    },
+    {
+     "index": 24,
+     "start": 327.7,
+     "end": 330.99,
+     "duration": 3.29,
+     "startFrame": 19662,
+     "endFrame": 19860,
+     "asset": "office_silence_4bff3ae5_2K.jpg",
+     "assetHandle": "office_silence",
+     "assetPath": "images/office_silence_4bff3ae5_2K.jpg",
+     "camera": "craneUp",
+     "hud": "many",
+     "hudAnchors": [
+      {
+       "x": 8.0,
+       "y": 70.0,
+       "v": 6400,
+       "s": 0.62
+      },
+      {
+       "x": 16.0,
+       "y": 66.0,
+       "v": 3120,
+       "s": 0.62
+      },
+      {
+       "x": 24.0,
+       "y": 76.0,
+       "v": 128.4,
+       "s": 0.62
+      },
+      {
+       "x": 30.0,
+       "y": 58.0,
+       "v": 17900,
+       "s": 0.62
+      },
+      {
+       "x": 36.0,
+       "y": 54.0,
+       "v": 2460,
+       "s": 0.62
+      },
+      {
+       "x": 44.0,
+       "y": 60.0,
+       "v": 86300,
+       "s": 0.62
+      },
+      {
+       "x": 52.0,
+       "y": 58.0,
+       "v": 1240,
+       "s": 0.62
+      },
+      {
+       "x": 60.0,
+       "y": 54.0,
+       "v": 86.2,
+       "s": 0.62
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": true,
+     "note": "an office where nobody asks, and everyone can see",
+     "globalIndex": 55
+    },
+    {
+     "index": 25,
+     "start": 330.99,
+     "end": 333.93,
+     "duration": 2.94,
+     "startFrame": 19860,
+     "endFrame": 20036,
+     "asset": "Office_workers_walking_in_hallway_98e59dfd_2K (1).jpg",
+     "assetHandle": "hallway",
+     "assetPath": "images/Office_workers_walking_in_hallway_98e59dfd_2K (1).jpg",
+     "camera": "pushIn",
+     "hud": "many",
+     "hudAnchors": [
+      {
+       "x": 33.9,
+       "y": 27.0,
+       "v": 6400.0
+      },
+      {
+       "x": 68.1,
+       "y": 27.5,
+       "v": 128.4
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": true,
+     "note": "not the same as knowing each other",
+     "globalIndex": 56
+    },
+    {
+     "index": 26,
+     "start": 333.93,
+     "end": 339.03,
+     "duration": 5.1,
+     "startFrame": 20036,
+     "endFrame": 20342,
+     "asset": "Wedding_guests_holding_champagne…_fdb06448.jpg",
+     "assetHandle": "wedding",
+     "assetPath": "images/Wedding_guests_holding_champagne…_fdb06448.jpg",
+     "camera": "dollyLateral",
+     "hud": "many",
+     "hudAnchors": [
+      {
+       "x": 18.2,
+       "y": 28.5,
+       "v": 1420.0,
+       "s": 0.78
+      },
+      {
+       "x": 35.4,
+       "y": 22.0,
+       "v": 890.0,
+       "s": 0.78
+      },
+      {
+       "x": 50.8,
+       "y": 22.2,
+       "v": 610.0,
+       "s": 0.78
+      },
+      {
+       "x": 67.9,
+       "y": 23.0,
+       "v": 245.0,
+       "s": 0.78
+      },
+      {
+       "x": 82.2,
+       "y": 29.5,
+       "v": 1740.0,
+       "s": 0.78
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": false,
+     "note": "or take the wedding",
+     "globalIndex": 57
+    },
+    {
+     "index": 27,
+     "start": 339.03,
+     "end": 342.72,
+     "duration": 3.69,
+     "startFrame": 20342,
+     "endFrame": 20563,
+     "asset": "wedding_costs_d443027c_2K.jpg",
+     "assetHandle": "wedding_costs",
+     "assetPath": "images/wedding_costs_d443027c_2K.jpg",
+     "camera": "rackFocus",
+     "hud": "none",
+     "hudAnchors": [],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": false,
+     "note": "flight, hotel, gift, the outfit",
+     "globalIndex": 58
+    },
+    {
+     "index": 28,
+     "start": 342.72,
+     "end": 345.63,
+     "duration": 2.91,
+     "startFrame": 20563,
+     "endFrame": 20738,
+     "asset": "Wedding_guests_holding_champagne…_fdb06448.jpg",
+     "assetHandle": "wedding",
+     "assetPath": "images/Wedding_guests_holding_champagne…_fdb06448.jpg",
+     "camera": "pushIn",
+     "hud": "many",
+     "hudAnchors": [
+      {
+       "x": 18.2,
+       "y": 28.5,
+       "v": 1420.0,
+       "s": 0.78
+      },
+      {
+       "x": 35.4,
+       "y": 22.0,
+       "v": 890.0,
+       "s": 0.78
+      },
+      {
+       "x": 50.8,
+       "y": 22.2,
+       "v": 610.0,
+       "s": 0.78
+      },
+      {
+       "x": 67.9,
+       "y": 23.0,
+       "v": 245.0,
+       "s": 0.78
+      },
+      {
+       "x": 82.2,
+       "y": 29.5,
+       "v": 1740.0,
+       "s": 0.78
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": false,
+     "note": "the wedding, after the costs. declining is a statement",
+     "globalIndex": 59
+    },
+    {
+     "index": 29,
+     "start": 345.63,
+     "end": 348.46,
+     "duration": 2.83,
+     "startFrame": 20738,
+     "endFrame": 20908,
+     "asset": "empty_chair_3316182e_2K.jpg",
+     "assetHandle": "empty_chair",
+     "assetPath": "images/empty_chair_3316182e_2K.jpg",
+     "camera": "pushIn",
+     "hud": "many",
+     "hudAnchors": [
+      {
+       "x": 14.0,
+       "y": 40.0,
+       "v": 1420,
+       "s": 0.78
+      },
+      {
+       "x": 28.0,
+       "y": 38.0,
+       "v": 890,
+       "s": 0.78
+      },
+      {
+       "x": 42.0,
+       "y": 38.0,
+       "v": 610,
+       "s": 0.78
+      },
+      {
+       "x": 58.0,
+       "y": 40.0,
+       "v": 245,
+       "s": 0.78
+      },
+      {
+       "x": 86.0,
+       "y": 42.0,
+       "v": 1740,
+       "s": 0.78
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": false,
+     "note": "one chair pulled out",
+     "globalIndex": 60
+    },
+    {
+     "index": 30,
+     "start": 348.46,
+     "end": 352.09,
+     "duration": 3.63,
+     "startFrame": 20908,
+     "endFrame": 21126,
+     "asset": "Wedding_guests_holding_champagne…_fdb06448.jpg",
+     "assetHandle": "wedding",
+     "assetPath": "images/Wedding_guests_holding_champagne…_fdb06448.jpg",
+     "camera": "pushIn",
+     "hud": "many",
+     "hudAnchors": [
+      {
+       "x": 18.2,
+       "y": 28.5,
+       "v": 1420.0,
+       "s": 0.78
+      },
+      {
+       "x": 35.4,
+       "y": 22.0,
+       "v": 890.0,
+       "s": 0.78
+      },
+      {
+       "x": 50.8,
+       "y": 22.2,
+       "v": 610.0,
+       "s": 0.78
+      },
+      {
+       "x": 67.9,
+       "y": 23.0,
+       "v": 245.0,
+       "s": 0.78
+      },
+      {
+       "x": 82.2,
+       "y": 29.5,
+       "v": 1740.0,
+       "s": 0.78
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": true,
+     "note": "the room goes on without that seat",
+     "globalIndex": 61
+    },
+    {
+     "index": 31,
+     "start": 352.09,
+     "end": 359.07,
+     "duration": 6.98,
+     "startFrame": 21126,
+     "endFrame": 21544,
+     "asset": "Wedding_guests_holding_champagne…_fdb06448.jpg",
+     "assetHandle": "wedding",
+     "assetPath": "images/Wedding_guests_holding_champagne…_fdb06448.jpg",
+     "camera": "pushIn",
+     "hud": "drop",
+     "hudAnchors": [
+      {
+       "x": 18.2,
+       "y": 28.5,
+       "v": 1420.0,
+       "s": 0.78
+      },
+      {
+       "x": 35.4,
+       "y": 22.0,
+       "v": 890.0,
+       "s": 0.78
+      },
+      {
+       "x": 50.8,
+       "y": 22.2,
+       "v": 610.0,
+       "s": 0.78
+      },
+      {
+       "x": 67.9,
+       "y": 23.0,
+       "v": 245.0,
+       "s": 0.78
+      },
+      {
+       "x": 82.2,
+       "y": 29.5,
+       "v": 1740.0,
+       "s": 0.78
+      }
+     ],
+     "hudFall": true,
+     "blank": false,
+     "cutOnBreath": true,
+     "note": "they go, and the number drops",
+     "globalIndex": 62
+    },
+    {
+     "index": 32,
+     "start": 359.07,
+     "end": 364.95,
+     "duration": 5.88,
+     "startFrame": 21544,
+     "endFrame": 21897,
+     "asset": "Wedding_guests_holding_champagne…_fdb06448.jpg",
+     "assetHandle": "wedding",
+     "assetPath": "images/Wedding_guests_holding_champagne…_fdb06448.jpg",
+     "camera": "pushIn",
+     "hud": "many",
+     "hudAnchors": [
+      {
+       "x": 18.2,
+       "y": 28.5,
+       "v": 1420.0,
+       "s": 0.78
+      },
+      {
+       "x": 35.4,
+       "y": 22.0,
+       "v": 890.0,
+       "s": 0.78
+      },
+      {
+       "x": 50.8,
+       "y": 22.2,
+       "v": 610.0,
+       "s": 0.78
+      },
+      {
+       "x": 67.9,
+       "y": 23.0,
+       "v": 245.0,
+       "s": 0.78
+      },
+      {
+       "x": 82.2,
+       "y": 29.5,
+       "v": 1740.0,
+       "s": 0.78
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": true,
+     "note": "smiling in the photographs",
+     "globalIndex": 63
+    },
+    {
+     "index": 33,
+     "start": 364.95,
+     "end": 368.01,
+     "duration": 3.06,
+     "startFrame": 21897,
+     "endFrame": 22081,
+     "asset": "Wedding_guests_holding_champagne…_fdb06448.jpg",
+     "assetHandle": "wedding",
+     "assetPath": "images/Wedding_guests_holding_champagne…_fdb06448.jpg",
+     "camera": "pushIn",
+     "hud": "many",
+     "hudAnchors": [
+      {
+       "x": 18.2,
+       "y": 28.5,
+       "v": 1420.0,
+       "s": 0.78
+      },
+      {
+       "x": 35.4,
+       "y": 22.0,
+       "v": 890.0,
+       "s": 0.78
+      },
+      {
+       "x": 50.8,
+       "y": 22.2,
+       "v": 610.0,
+       "s": 0.78
+      },
+      {
+       "x": 67.9,
+       "y": 23.0,
+       "v": 245.0,
+       "s": 0.78
+      },
+      {
+       "x": 82.2,
+       "y": 29.5,
+       "v": 1740.0,
+       "s": 0.78
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": true,
+     "note": "honesty was the only option left",
+     "globalIndex": 64
+    },
+    {
+     "index": 34,
+     "start": 368.01,
+     "end": 374.03,
+     "duration": 6.02,
+     "startFrame": 22081,
+     "endFrame": 22442,
+     "asset": "Paper_customers_in_coffee_shop_28032a7d.jpg",
+     "assetHandle": "cafe",
+     "assetPath": "images/Paper_customers_in_coffee_shop_28032a7d.jpg",
+     "camera": "craneUp",
+     "hud": "many",
+     "hudAnchors": [
+      {
+       "x": 32.7,
+       "y": 39.5,
+       "v": 1240.0,
+       "s": 0.78
+      },
+      {
+       "x": 39.5,
+       "y": 41.5,
+       "v": 86300.0,
+       "s": 0.78
+      },
+      {
+       "x": 45.2,
+       "y": 39.2,
+       "v": 3120.0,
+       "s": 0.78
+      },
+      {
+       "x": 60.1,
+       "y": 48.8,
+       "v": 128.4,
+       "s": 0.78
+      },
+      {
+       "x": 72.2,
+       "y": 46.5,
+       "v": 17900.0,
+       "s": 0.78
+      },
+      {
+       "x": 84.5,
+       "y": 50.2,
+       "v": 2460.0,
+       "s": 0.78
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": false,
+     "note": "more truthful, and less kind",
+     "globalIndex": 65
+    }
+   ]
+  },
+  {
+   "id": "act3",
+   "title": "ACT THREE RELATIONSHIPS RE-SORT THEMSELVES",
+   "start": 374.032,
+   "end": 521.198,
+   "duration": 147.166,
+   "color": {
+    "bg": "#2E2A38",
+    "accent": "#5B4B6B",
+    "temp": "cold",
+    "name": "Surgical Slate & Bruised Plum"
+   },
+   "chapterPause": 2.5,
+   "shots": [
+    {
+     "index": 1,
+     "start": 374.03,
+     "end": 377.33,
+     "duration": 3.3,
+     "startFrame": 22442,
+     "endFrame": 22640,
+     "asset": "Guests_staring_at_paper_receipt_a42186fe_2K.jpg",
+     "assetHandle": "receipt",
+     "assetPath": "images/Guests_staring_at_paper_receipt_a42186fe_2K.jpg",
+     "camera": "pushIn",
+     "hud": "six",
+     "hudAnchors": [
+      {
+       "x": 15,
+       "y": 34,
+       "v": 142890.12
+      },
+      {
+       "x": 28,
+       "y": 36,
+       "v": 4120.5
+      },
+      {
+       "x": 38,
+       "y": 34,
+       "v": 812.0
+      },
+      {
+       "x": 62,
+       "y": 34,
+       "v": 19400.0
+      },
+      {
+       "x": 75,
+       "y": 32,
+       "v": 43.18
+      },
+      {
+       "x": 88,
+       "y": 34,
+       "v": 68210.0
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": false,
+     "note": "you don't choose who you love by a number",
+     "globalIndex": 66
+    },
+    {
+     "index": 2,
+     "start": 377.33,
+     "end": 386.5,
+     "duration": 9.17,
+     "startFrame": 22640,
+     "endFrame": 23190,
+     "asset": "three_choices_5c834dff_2K.jpg",
+     "assetHandle": "three_choices",
+     "assetPath": "images/three_choices_5c834dff_2K.jpg",
+     "camera": "pushIn",
+     "hud": "none",
+     "hudAnchors": [],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": false,
+     "note": "borrow, sit, split the bill",
+     "globalIndex": 67
+    },
+    {
+     "index": 3,
+     "start": 386.5,
+     "end": 400.7,
+     "duration": 14.2,
+     "startFrame": 23190,
+     "endFrame": 24042,
+     "asset": "Paper_balance_scale_descending_o…_2ddc79ef_2K (1).jpg",
+     "assetHandle": "scale",
+     "assetPath": "images/Paper_balance_scale_descending_o…_2ddc79ef_2K (1).jpg",
+     "camera": "craneUp",
+     "hud": "six",
+     "hudAnchors": [
+      {
+       "x": 19.6,
+       "y": 49.0,
+       "v": 142890.12,
+       "s": 0.78
+      },
+      {
+       "x": 34.7,
+       "y": 48.5,
+       "v": 4120.5,
+       "s": 0.78
+      },
+      {
+       "x": 45.0,
+       "y": 48.5,
+       "v": 812.0,
+       "s": 0.78
+      },
+      {
+       "x": 56.2,
+       "y": 48.5,
+       "v": 43.18,
+       "s": 0.78
+      },
+      {
+       "x": 66.6,
+       "y": 50.0,
+       "v": 19400.0,
+       "s": 0.78
+      },
+      {
+       "x": 81.7,
+       "y": 49.5,
+       "v": 68210.0,
+       "s": 0.78
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": false,
+     "note": "the bill becomes arithmetic",
+     "globalIndex": 68
+    },
+    {
+     "index": 4,
+     "start": 400.7,
+     "end": 403.85,
+     "duration": 3.15,
+     "startFrame": 24042,
+     "endFrame": 24231,
+     "asset": "four_times_00408d12_2K.jpg",
+     "assetHandle": "four_times",
+     "assetPath": "images/four_times_00408d12_2K.jpg",
+     "camera": "pushIn",
+     "hud": "many",
+     "hudAnchors": [
+      {
+       "x": 28.0,
+       "y": 30.0,
+       "v": 19400
+      },
+      {
+       "x": 82.0,
+       "y": 44.0,
+       "v": 4850
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": false,
+     "note": "somebody earns four times",
+     "globalIndex": 69
+    },
+    {
+     "index": 5,
+     "start": 403.85,
+     "end": 417.97,
+     "duration": 14.12,
+     "startFrame": 24231,
+     "endFrame": 25078,
+     "asset": "Paper_balance_scale_descending_o…_2ddc79ef_2K (1).jpg",
+     "assetHandle": "scale",
+     "assetPath": "images/Paper_balance_scale_descending_o…_2ddc79ef_2K (1).jpg",
+     "camera": "pushIn",
+     "hud": "six",
+     "hudAnchors": [
+      {
+       "x": 19.6,
+       "y": 49.0,
+       "v": 142890.12,
+       "s": 0.78
+      },
+      {
+       "x": 34.7,
+       "y": 48.5,
+       "v": 4120.5,
+       "s": 0.78
+      },
+      {
+       "x": 45.0,
+       "y": 48.5,
+       "v": 812.0,
+       "s": 0.78
+      },
+      {
+       "x": 56.2,
+       "y": 48.5,
+       "v": 43.18,
+       "s": 0.78
+      },
+      {
+       "x": 66.6,
+       "y": 50.0,
+       "v": 19400.0,
+       "s": 0.78
+      },
+      {
+       "x": 81.7,
+       "y": 49.5,
+       "v": 68210.0,
+       "s": 0.78
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": false,
+     "note": "the split stops being generous, and feels like being weighed",
+     "globalIndex": 70
+    },
+    {
+     "index": 6,
+     "start": 417.97,
+     "end": 453.93,
+     "duration": 35.96,
+     "startFrame": 25078,
+     "endFrame": 27236,
+     "asset": "Cocktail_party_room_paper_model_866fc38d_2K (1).jpg",
+     "assetHandle": "party",
+     "assetPath": "images/Cocktail_party_room_paper_model_866fc38d_2K (1).jpg",
+     "camera": "pushIn",
+     "hud": "many",
+     "hudAnchors": [
+      {
+       "x": 13.4,
+       "y": 67.2,
+       "v": 1600,
+       "s": 0.32
+      },
+      {
+       "x": 13.6,
+       "y": 75.4,
+       "v": 2450,
+       "s": 0.32
+      },
+      {
+       "x": 16.1,
+       "y": 22.5,
+       "v": 96700,
+       "s": 0.32
+      },
+      {
+       "x": 17.1,
+       "y": 60.1,
+       "v": 2450,
+       "s": 0.32
+      },
+      {
+       "x": 19.4,
+       "y": 39.8,
+       "v": 96700,
+       "s": 0.32
+      },
+      {
+       "x": 19.9,
+       "y": 83.8,
+       "v": 2450,
+       "s": 0.32
+      },
+      {
+       "x": 21.6,
+       "y": 14.3,
+       "v": 148000,
+       "s": 0.32
+      },
+      {
+       "x": 25.2,
+       "y": 57.8,
+       "v": 2100,
+       "s": 0.32
+      },
+      {
+       "x": 28.7,
+       "y": 77.7,
+       "v": 2100,
+       "s": 0.32
+      },
+      {
+       "x": 30.4,
+       "y": 65.1,
+       "v": 2450,
+       "s": 0.32
+      },
+      {
+       "x": 33.0,
+       "y": 27.8,
+       "v": 28400,
+       "s": 0.32
+      },
+      {
+       "x": 33.0,
+       "y": 43.3,
+       "v": 28400,
+       "s": 0.32
+      },
+      {
+       "x": 37.5,
+       "y": 69.4,
+       "v": 430,
+       "s": 0.32
+      },
+      {
+       "x": 42.2,
+       "y": 35.3,
+       "v": 22800,
+       "s": 0.32
+      },
+      {
+       "x": 42.2,
+       "y": 59.9,
+       "v": 860,
+       "s": 0.32
+      },
+      {
+       "x": 57.7,
+       "y": 33.8,
+       "v": 38000,
+       "s": 0.32
+      },
+      {
+       "x": 59.3,
+       "y": 45.6,
+       "v": 38000,
+       "s": 0.32
+      },
+      {
+       "x": 63.9,
+       "y": 23.7,
+       "v": 29000,
+       "s": 0.32
+      },
+      {
+       "x": 68.1,
+       "y": 45.8,
+       "v": 38000,
+       "s": 0.32
+      },
+      {
+       "x": 68.8,
+       "y": 31.8,
+       "v": 42000,
+       "s": 0.32
+      },
+      {
+       "x": 72.4,
+       "y": 77.5,
+       "v": 88.2,
+       "s": 0.32
+      },
+      {
+       "x": 73.6,
+       "y": 65.3,
+       "v": 88.2,
+       "s": 0.32
+      },
+      {
+       "x": 78.5,
+       "y": 60.7,
+       "v": 41.1,
+       "s": 0.32
+      },
+      {
+       "x": 83.4,
+       "y": 82.5,
+       "v": 186.4,
+       "s": 0.32
+      },
+      {
+       "x": 87.5,
+       "y": 62.6,
+       "v": 41.1,
+       "s": 0.32
+      },
+      {
+       "x": 87.7,
+       "y": 75.2,
+       "v": 62.1,
+       "s": 0.32
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": false,
+     "note": "the room sorts itself into clusters",
+     "globalIndex": 71
+    },
+    {
+     "index": 7,
+     "start": 453.93,
+     "end": 456.25,
+     "duration": 2.32,
+     "startFrame": 27236,
+     "endFrame": 27375,
+     "asset": "already_sorted_9a381176_2K.jpg",
+     "assetHandle": "already_sorted",
+     "assetPath": "images/already_sorted_9a381176_2K.jpg",
+     "camera": "pushIn",
+     "hud": "none",
+     "hudAnchors": [],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": false,
+     "note": "postcodes, schools",
+     "globalIndex": 72
+    },
+    {
+     "index": 8,
+     "start": 456.25,
+     "end": 458.07,
+     "duration": 1.82,
+     "startFrame": 27375,
+     "endFrame": 27484,
+     "asset": "Six_people_dining_at_table_45944cf1_2K.jpg",
+     "assetHandle": "dinner_side",
+     "assetPath": "images/Six_people_dining_at_table_45944cf1_2K.jpg",
+     "camera": "handheldDrift",
+     "hud": "six",
+     "hudAnchors": [
+      {
+       "x": 42.4,
+       "y": 54.0,
+       "v": 142890.12,
+       "s": 0.78
+      },
+      {
+       "x": 46.5,
+       "y": 48.0,
+       "v": 43.18,
+       "s": 0.78
+      },
+      {
+       "x": 48.5,
+       "y": 53.5,
+       "v": 4120.5,
+       "s": 0.78
+      },
+      {
+       "x": 52.5,
+       "y": 53.5,
+       "v": 812.0,
+       "s": 0.78
+      },
+      {
+       "x": 54.5,
+       "y": 48.0,
+       "v": 19400.0,
+       "s": 0.78
+      },
+      {
+       "x": 59.6,
+       "y": 52.0,
+       "v": 68210.0,
+       "s": 0.78
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": false,
+     "note": "which restaurant we suggested",
+     "globalIndex": 73
+    },
+    {
+     "index": 9,
+     "start": 458.07,
+     "end": 462.13,
+     "duration": 4.06,
+     "startFrame": 27484,
+     "endFrame": 27728,
+     "asset": "uninvited_17f580e7_2K.jpg",
+     "assetHandle": "uninvited",
+     "assetPath": "images/uninvited_17f580e7_2K.jpg",
+     "camera": "pushIn",
+     "hud": "many",
+     "hudAnchors": [
+      {
+       "x": 24.0,
+       "y": 44.0,
+       "v": 43.18,
+       "s": 0.9
+      },
+      {
+       "x": 58.0,
+       "y": 34.0,
+       "v": 28400,
+       "s": 0.9
+      },
+      {
+       "x": 63.0,
+       "y": 32.0,
+       "v": 31200,
+       "s": 0.9
+      },
+      {
+       "x": 68.0,
+       "y": 34.0,
+       "v": 22800,
+       "s": 0.9
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": true,
+     "note": "which party we didn't invite",
+     "globalIndex": 74
+    },
+    {
+     "index": 10,
+     "start": 462.13,
+     "end": 465.85,
+     "duration": 3.72,
+     "startFrame": 27728,
+     "endFrame": 27951,
+     "asset": "Cocktail_party_room_paper_model_866fc38d_2K (1).jpg",
+     "assetHandle": "party",
+     "assetPath": "images/Cocktail_party_room_paper_model_866fc38d_2K (1).jpg",
+     "camera": "dollyLateral",
+     "hud": "many",
+     "hudAnchors": [
+      {
+       "x": 13.4,
+       "y": 67.2,
+       "v": 1600,
+       "s": 0.32
+      },
+      {
+       "x": 13.6,
+       "y": 75.4,
+       "v": 2450,
+       "s": 0.32
+      },
+      {
+       "x": 16.1,
+       "y": 22.5,
+       "v": 96700,
+       "s": 0.32
+      },
+      {
+       "x": 17.1,
+       "y": 60.1,
+       "v": 2450,
+       "s": 0.32
+      },
+      {
+       "x": 19.4,
+       "y": 39.8,
+       "v": 96700,
+       "s": 0.32
+      },
+      {
+       "x": 19.9,
+       "y": 83.8,
+       "v": 2450,
+       "s": 0.32
+      },
+      {
+       "x": 21.6,
+       "y": 14.3,
+       "v": 148000,
+       "s": 0.32
+      },
+      {
+       "x": 25.2,
+       "y": 57.8,
+       "v": 2100,
+       "s": 0.32
+      },
+      {
+       "x": 28.7,
+       "y": 77.7,
+       "v": 2100,
+       "s": 0.32
+      },
+      {
+       "x": 30.4,
+       "y": 65.1,
+       "v": 2450,
+       "s": 0.32
+      },
+      {
+       "x": 33.0,
+       "y": 27.8,
+       "v": 28400,
+       "s": 0.32
+      },
+      {
+       "x": 33.0,
+       "y": 43.3,
+       "v": 28400,
+       "s": 0.32
+      },
+      {
+       "x": 37.5,
+       "y": 69.4,
+       "v": 430,
+       "s": 0.32
+      },
+      {
+       "x": 42.2,
+       "y": 35.3,
+       "v": 22800,
+       "s": 0.32
+      },
+      {
+       "x": 42.2,
+       "y": 59.9,
+       "v": 860,
+       "s": 0.32
+      },
+      {
+       "x": 57.7,
+       "y": 33.8,
+       "v": 38000,
+       "s": 0.32
+      },
+      {
+       "x": 59.3,
+       "y": 45.6,
+       "v": 38000,
+       "s": 0.32
+      },
+      {
+       "x": 63.9,
+       "y": 23.7,
+       "v": 29000,
+       "s": 0.32
+      },
+      {
+       "x": 68.1,
+       "y": 45.8,
+       "v": 38000,
+       "s": 0.32
+      },
+      {
+       "x": 68.8,
+       "y": 31.8,
+       "v": 42000,
+       "s": 0.32
+      },
+      {
+       "x": 72.4,
+       "y": 77.5,
+       "v": 88.2,
+       "s": 0.32
+      },
+      {
+       "x": 73.6,
+       "y": 65.3,
+       "v": 88.2,
+       "s": 0.32
+      },
+      {
+       "x": 78.5,
+       "y": 60.7,
+       "v": 41.1,
+       "s": 0.32
+      },
+      {
+       "x": 83.4,
+       "y": 82.5,
+       "v": 186.4,
+       "s": 0.32
+      },
+      {
+       "x": 87.5,
+       "y": 62.6,
+       "v": 41.1,
+       "s": 0.32
+      },
+      {
+       "x": 87.7,
+       "y": 75.2,
+       "v": 62.1,
+       "s": 0.32
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": true,
+     "note": "it stopped the pretence",
+     "globalIndex": 75
+    },
+    {
+     "index": 11,
+     "start": 465.85,
+     "end": 470.83,
+     "duration": 4.98,
+     "startFrame": 27951,
+     "endFrame": 28250,
+     "asset": "Father_and_son_sitting_together_8d77105b_2K (1).jpg",
+     "assetHandle": "father_son",
+     "assetPath": "images/Father_and_son_sitting_together_8d77105b_2K (1).jpg",
+     "camera": "pushIn",
+     "hud": "one",
+     "hudAnchors": [
+      {
+       "x": 31.2,
+       "y": 33.0,
+       "v": 14200.0
+      },
+      {
+       "x": 63.6,
+       "y": 33.8,
+       "v": 8600.0
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": true,
+     "note": "family. you can see your parents' number",
+     "globalIndex": 76
+    },
+    {
+     "index": 12,
+     "start": 470.83,
+     "end": 477.15,
+     "duration": 6.32,
+     "startFrame": 28250,
+     "endFrame": 28629,
+     "asset": "Father_and_son_sitting_together_8d77105b_2K (1).jpg",
+     "assetHandle": "father_son",
+     "assetPath": "images/Father_and_son_sitting_together_8d77105b_2K (1).jpg",
+     "camera": "craneUp",
+     "hud": "one",
+     "hudAnchors": [
+      {
+       "x": 31.2,
+       "y": 33.0,
+       "v": 14200.0
+      },
+      {
+       "x": 63.6,
+       "y": 33.8,
+       "v": 8600.0
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": true,
+     "note": "falling, and they can see yours",
+     "globalIndex": 77
+    },
+    {
+     "index": 13,
+     "start": 477.15,
+     "end": 482.59,
+     "duration": 5.44,
+     "startFrame": 28629,
+     "endFrame": 28955,
+     "asset": "Elderly_father_sitting_in_armchair_d3108009_2K.jpg",
+     "assetHandle": "father_chair",
+     "assetPath": "images/Elderly_father_sitting_in_armchair_d3108009_2K.jpg",
+     "camera": "pushIn",
+     "hud": "one",
+     "hudAnchors": [
+      {
+       "x": 39.5,
+       "y": 13,
+       "v": 14200
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": false,
+     "note": "the conversation every family has",
+     "globalIndex": 78
+    },
+    {
+     "index": 14,
+     "start": 482.59,
+     "end": 490.25,
+     "duration": 7.66,
+     "startFrame": 28955,
+     "endFrame": 29415,
+     "asset": "Father_and_son_sitting_together_8d77105b_2K (1).jpg",
+     "assetHandle": "father_son",
+     "assetPath": "images/Father_and_son_sitting_together_8d77105b_2K (1).jpg",
+     "camera": "pushIn",
+     "hud": "one",
+     "hudAnchors": [
+      {
+       "x": 31.2,
+       "y": 33.0,
+       "v": 14200.0
+      },
+      {
+       "x": 63.6,
+       "y": 33.8,
+       "v": 8600.0
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": true,
+     "note": "had late, and badly, and mostly unsaid",
+     "globalIndex": 79
+    },
+    {
+     "index": 15,
+     "start": 490.25,
+     "end": 494.89,
+     "duration": 4.64,
+     "startFrame": 29415,
+     "endFrame": 29694,
+     "asset": "Father_and_son_sitting_together_8d77105b_2K (1).jpg",
+     "assetHandle": "father_son",
+     "assetPath": "images/Father_and_son_sitting_together_8d77105b_2K (1).jpg",
+     "camera": "dollyLateral",
+     "hud": "one",
+     "hudAnchors": [
+      {
+       "x": 31.2,
+       "y": 33.0,
+       "v": 14200.0
+      },
+      {
+       "x": 63.6,
+       "y": 33.8,
+       "v": 8600.0
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": false,
+     "note": "with the number public, that conversation is never had",
+     "globalIndex": 80
+    },
+    {
+     "index": 16,
+     "start": 494.89,
+     "end": 500.97,
+     "duration": 6.08,
+     "startFrame": 29694,
+     "endFrame": 30058,
+     "asset": "Elderly_father_sitting_in_armchair_d3108009_2K.jpg",
+     "assetHandle": "father_chair",
+     "assetPath": "images/Elderly_father_sitting_in_armchair_d3108009_2K.jpg",
+     "camera": "pushIn",
+     "hud": "one",
+     "hudAnchors": [
+      {
+       "x": 39.5,
+       "y": 13,
+       "v": 14200
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": true,
+     "note": "nobody has to be the one to bring it up",
+     "globalIndex": 81
+    },
+    {
+     "index": 17,
+     "start": 500.97,
+     "end": 505.19,
+     "duration": 4.22,
+     "startFrame": 30058,
+     "endFrame": 30312,
+     "asset": "Father_and_son_sitting_together_8d77105b_2K (1).jpg",
+     "assetHandle": "father_son",
+     "assetPath": "images/Father_and_son_sitting_together_8d77105b_2K (1).jpg",
+     "camera": "pushIn",
+     "hud": "one",
+     "hudAnchors": [
+      {
+       "x": 31.2,
+       "y": 33.0,
+       "v": 14200.0
+      },
+      {
+       "x": 63.6,
+       "y": 33.8,
+       "v": 8600.0
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": true,
+     "note": "what it removes is the moment of telling",
+     "globalIndex": 82
+    },
+    {
+     "index": 18,
+     "start": 505.19,
+     "end": 510.55,
+     "duration": 5.36,
+     "startFrame": 30312,
+     "endFrame": 30633,
+     "asset": "Father_and_son_sitting_together_8d77105b_2K (1).jpg",
+     "assetHandle": "father_son",
+     "assetPath": "images/Father_and_son_sitting_together_8d77105b_2K (1).jpg",
+     "camera": "craneUp",
+     "hud": "one",
+     "hudAnchors": [
+      {
+       "x": 31.2,
+       "y": 33.0,
+       "v": 14200.0
+      },
+      {
+       "x": 63.6,
+       "y": 33.8,
+       "v": 8600.0
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": true,
+     "note": "your father chooses to be honest",
+     "globalIndex": 83
+    },
+    {
+     "index": 19,
+     "start": 510.55,
+     "end": 517.29,
+     "duration": 6.74,
+     "startFrame": 30633,
+     "endFrame": 31038,
+     "asset": "Father_and_son_sitting_together_8d77105b_2K (1).jpg",
+     "assetHandle": "father_son",
+     "assetPath": "images/Father_and_son_sitting_together_8d77105b_2K (1).jpg",
+     "camera": "pushIn",
+     "hud": "one",
+     "hudAnchors": [
+      {
+       "x": 31.2,
+       "y": 33.0,
+       "v": 14200.0
+      },
+      {
+       "x": 63.6,
+       "y": 33.8,
+       "v": 8600.0
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": true,
+     "note": "the number gives the data and takes the conversation",
+     "globalIndex": 84
+    },
+    {
+     "index": 20,
+     "start": 517.29,
+     "end": 521.2,
+     "duration": 3.91,
+     "startFrame": 31038,
+     "endFrame": 31272,
+     "asset": "Elderly_father_sitting_in_armchair_d3108009_2K.jpg",
+     "assetHandle": "father_chair",
+     "assetPath": "images/Elderly_father_sitting_in_armchair_d3108009_2K.jpg",
+     "camera": "pushIn",
+     "hud": "one",
+     "hudAnchors": [
+      {
+       "x": 39.5,
+       "y": 13,
+       "v": 14200
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": false,
+     "note": "you would rather have had the conversation",
+     "globalIndex": 85
+    }
+   ]
+  },
+  {
+   "id": "act4",
+   "title": "ACT FOUR MARKET TURNS INSIDE OUT",
+   "start": 521.198,
+   "end": 638.375,
+   "duration": 117.177,
+   "color": {
+    "bg": "#1C1C1F",
+    "accent": "#8B1E1E",
+    "temp": "hot",
+    "name": "Predator Noir"
+   },
+   "chapterPause": 2.5,
+   "shots": [
+    {
+     "index": 1,
+     "start": 521.2,
+     "end": 532.06,
+     "duration": 10.86,
+     "startFrame": 31272,
+     "endFrame": 31924,
+     "asset": "Entrepreneur_holding_glowing_lig…_dd818770_2K.jpg",
+     "assetHandle": "lightbulb",
+     "assetPath": "images/Entrepreneur_holding_glowing_lig…_dd818770_2K.jpg",
+     "camera": "pushIn",
+     "hud": "one",
+     "hudAnchors": [
+      {
+       "x": 22.3,
+       "y": 45.0,
+       "v": 84.0
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": false,
+     "note": "money moves. credit has to guess",
+     "globalIndex": 86
+    },
+    {
+     "index": 2,
+     "start": 532.06,
+     "end": 569.48,
+     "duration": 37.42,
+     "startFrame": 31924,
+     "endFrame": 34169,
+     "asset": "Paper_storefront_with_cafe_counter_abcf63d2_2K.jpg",
+     "assetHandle": "storefront",
+     "assetPath": "images/Paper_storefront_with_cafe_counter_abcf63d2_2K.jpg",
+     "camera": "dollyLateral",
+     "hud": "many",
+     "hudAnchors": [
+      {
+       "x": 14.2,
+       "y": 50.2,
+       "v": 4200.0,
+       "s": 0.9
+      },
+      {
+       "x": 21.8,
+       "y": 50.2,
+       "v": 860.0,
+       "s": 0.9
+      },
+      {
+       "x": 28.8,
+       "y": 48.5,
+       "v": 19000.0,
+       "s": 0.9
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": false,
+     "note": "the proxy disappears. borrowing stops",
+     "globalIndex": 87
+    },
+    {
+     "index": 3,
+     "start": 569.48,
+     "end": 575.28,
+     "duration": 5.8,
+     "startFrame": 34169,
+     "endFrame": 34517,
+     "asset": "number_says_no_c373c5f7_2K.jpg",
+     "assetHandle": "number_says_no",
+     "assetPath": "images/number_says_no_c373c5f7_2K.jpg",
+     "camera": "pushIn",
+     "hud": "none",
+     "hudAnchors": [],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": true,
+     "note": "promoted, inherit, business. the number says no",
+     "globalIndex": 88
+    },
+    {
+     "index": 4,
+     "start": 575.28,
+     "end": 584.34,
+     "duration": 9.06,
+     "startFrame": 34517,
+     "endFrame": 35060,
+     "asset": "coffee_two_prices_ad71819c_2K.jpg",
+     "assetHandle": "coffee_two_prices",
+     "assetPath": "images/coffee_two_prices_ad71819c_2K.jpg",
+     "camera": "pushIn",
+     "hud": "many",
+     "hudAnchors": [
+      {
+       "x": 24.0,
+       "y": 30.0,
+       "v": 86300
+      },
+      {
+       "x": 84.0,
+       "y": 34.0,
+       "v": 18.4
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": false,
+     "note": "prices stop being fixed. the same coffee",
+     "globalIndex": 89
+    },
+    {
+     "index": 5,
+     "start": 584.34,
+     "end": 601.12,
+     "duration": 16.78,
+     "startFrame": 35060,
+     "endFrame": 36067,
+     "asset": "flight_two_prices_288bec39_2K.jpg",
+     "assetHandle": "flight_two_prices",
+     "assetPath": "images/flight_two_prices_288bec39_2K.jpg",
+     "camera": "pushIn",
+     "hud": "none",
+     "hudAnchors": [],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": false,
+     "note": "the same flight. large pays more, small pays less",
+     "globalIndex": 90
+    },
+    {
+     "index": 6,
+     "start": 601.12,
+     "end": 603.36,
+     "duration": 2.24,
+     "startFrame": 36067,
+     "endFrame": 36202,
+     "asset": "Paper_figures_queueing_at_storef…_a7925cd8_2K.jpg",
+     "assetHandle": "shutter_closed",
+     "assetPath": "images/Paper_figures_queueing_at_storef…_a7925cd8_2K.jpg",
+     "camera": "dollyLateral",
+     "hud": "many",
+     "hudAnchors": [
+      {
+       "x": 12,
+       "y": 56,
+       "v": 912
+      },
+      {
+       "x": 20.3,
+       "y": 54,
+       "v": 1240
+      },
+      {
+       "x": 27.3,
+       "y": 52,
+       "v": 880
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": false,
+     "note": "aren't worth serving at all",
+     "globalIndex": 91
+    },
+    {
+     "index": 7,
+     "start": 603.36,
+     "end": 638.38,
+     "duration": 35.01,
+     "startFrame": 36202,
+     "endFrame": 38302,
+     "asset": "Figures_surrounding_paper_cutout…_54022988_2K.jpg",
+     "assetHandle": "plaza",
+     "assetPath": "images/Figures_surrounding_paper_cutout…_54022988_2K.jpg",
+     "camera": "pushIn",
+     "hud": "hero",
+     "hudAnchors": [
+      {
+       "x": 19.4,
+       "y": 46.0,
+       "v": 220000.0,
+       "s": 0.78
+      },
+      {
+       "x": 26.0,
+       "y": 5.5,
+       "v": 180000.0,
+       "s": 0.78
+      },
+      {
+       "x": 51.0,
+       "y": 40.5,
+       "v": 46.2,
+       "s": 0.78
+      },
+      {
+       "x": 74.4,
+       "y": 5.5,
+       "v": 310000.0,
+       "s": 0.78
+      },
+      {
+       "x": 80.2,
+       "y": 46.0,
+       "v": 142000.0,
+       "s": 0.78
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": false,
+     "note": "the second market. desperation is public",
+     "globalIndex": 92
+    }
+   ]
+  },
+  {
+   "id": "act5",
+   "title": "ACT FIVE PREDATOR'S MARKET",
+   "start": 638.375,
+   "end": 712.921,
+   "duration": 74.546,
+   "color": {
+    "bg": "#111114",
+    "accent": "#FDE047",
+    "temp": "hot",
+    "name": "Obsidian & Gold Slit"
+   },
+   "chapterPause": 2.5,
+   "shots": [
+    {
+     "index": 1,
+     "start": 638.38,
+     "end": 652.48,
+     "duration": 14.11,
+     "startFrame": 38302,
+     "endFrame": 39149,
+     "asset": "Pedestrians_crossing_street_in_c…_ad7bd941_2K.jpg",
+     "assetHandle": "crosswalk",
+     "assetPath": "images/Pedestrians_crossing_street_in_c…_ad7bd941_2K.jpg",
+     "camera": "dollyLateral",
+     "hud": "many",
+     "hudAnchors": [
+      {
+       "x": 4.0,
+       "y": 39.2,
+       "v": 912,
+       "s": 0.46
+      },
+      {
+       "x": 7.6,
+       "y": 39.8,
+       "v": 1240,
+       "s": 0.46
+      },
+      {
+       "x": 12.3,
+       "y": 38.2,
+       "v": 880,
+       "s": 0.46
+      },
+      {
+       "x": 17.6,
+       "y": 35.8,
+       "v": 340,
+       "s": 0.46
+      },
+      {
+       "x": 21.0,
+       "y": 39.8,
+       "v": 1520,
+       "s": 0.46
+      },
+      {
+       "x": 24.8,
+       "y": 37.8,
+       "v": 2160,
+       "s": 0.46
+      },
+      {
+       "x": 28.8,
+       "y": 39.8,
+       "v": 640,
+       "s": 0.46
+      },
+      {
+       "x": 33.5,
+       "y": 38.5,
+       "v": 410,
+       "s": 0.46
+      },
+      {
+       "x": 36.5,
+       "y": 36.8,
+       "v": 1880,
+       "s": 0.46
+      },
+      {
+       "x": 43.5,
+       "y": 38.2,
+       "v": 96.4,
+       "s": 0.46
+      },
+      {
+       "x": 47.0,
+       "y": 39.5,
+       "v": 220,
+       "s": 0.46
+      },
+      {
+       "x": 51.2,
+       "y": 38.0,
+       "v": 540,
+       "s": 0.46
+      },
+      {
+       "x": 56.5,
+       "y": 37.6,
+       "v": 912,
+       "s": 0.46
+      },
+      {
+       "x": 59.6,
+       "y": 39.5,
+       "v": 1240,
+       "s": 0.46
+      },
+      {
+       "x": 62.7,
+       "y": 40.5,
+       "v": 880,
+       "s": 0.46
+      },
+      {
+       "x": 66.3,
+       "y": 35.2,
+       "v": 4820000,
+       "s": 0.46
+      },
+      {
+       "x": 71.6,
+       "y": 39.5,
+       "v": 1520,
+       "s": 0.46
+      },
+      {
+       "x": 75.8,
+       "y": 35.5,
+       "v": 2160,
+       "s": 0.46
+      },
+      {
+       "x": 80.6,
+       "y": 39.5,
+       "v": 640,
+       "s": 0.46
+      },
+      {
+       "x": 84.3,
+       "y": 39.6,
+       "v": 410,
+       "s": 0.46
+      },
+      {
+       "x": 89.1,
+       "y": 38.2,
+       "v": 1880,
+       "s": 0.46
+      },
+      {
+       "x": 93.3,
+       "y": 39.5,
+       "v": 96.4,
+       "s": 0.46
+      },
+      {
+       "x": 95.9,
+       "y": 40.0,
+       "v": 220,
+       "s": 0.46
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": false,
+     "note": "the number is a targeting system",
+     "globalIndex": 93
+    },
+    {
+     "index": 2,
+     "start": 652.48,
+     "end": 661.82,
+     "duration": 9.34,
+     "startFrame": 39149,
+     "endFrame": 39709,
+     "asset": "scam_kit_58489595_2K.jpg",
+     "assetHandle": "scam_kit",
+     "assetPath": "images/scam_kit_58489595_2K.jpg",
+     "camera": "pushIn",
+     "hud": "one",
+     "hudAnchors": [
+      {
+       "x": 28.0,
+       "y": 38.0,
+       "v": 220000
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": false,
+     "note": "investment, romance, urgent call",
+     "globalIndex": 94
+    },
+    {
+     "index": 3,
+     "start": 661.82,
+     "end": 677.77,
+     "duration": 15.95,
+     "startFrame": 39709,
+     "endFrame": 40666,
+     "asset": "Pedestrians_crossing_street_in_c…_ad7bd941_2K.jpg",
+     "assetHandle": "crosswalk",
+     "assetPath": "images/Pedestrians_crossing_street_in_c…_ad7bd941_2K.jpg",
+     "camera": "pushIn",
+     "hud": "hero",
+     "hudAnchors": [
+      {
+       "x": 66.3,
+       "y": 35.2,
+       "v": 4820000
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": true,
+     "note": "the most exposed person in the crowd",
+     "globalIndex": 95
+    },
+    {
+     "index": 4,
+     "start": 677.77,
+     "end": 690.05,
+     "duration": 12.28,
+     "startFrame": 40666,
+     "endFrame": 41403,
+     "asset": "Citizens_trapped_beneath_obsidia…_0c4d7e64_2K.jpg",
+     "assetHandle": "monolith_3",
+     "assetPath": "images/Citizens_trapped_beneath_obsidia…_0c4d7e64_2K.jpg",
+     "camera": "pushIn",
+     "hud": "drop",
+     "hudAnchors": [
+      {
+       "x": 24.5,
+       "y": 78,
+       "v": 96.4
+      },
+      {
+       "x": 49.5,
+       "y": 78,
+       "v": 41.1
+      },
+      {
+       "x": 75.5,
+       "y": 78,
+       "v": 12.8
+      }
+     ],
+     "hudFall": true,
+     "blank": false,
+     "cutOnBreath": true,
+     "note": "who is allowed to hide",
+     "globalIndex": 96
+    },
+    {
+     "index": 5,
+     "start": 690.05,
+     "end": 692.86,
+     "duration": 2.81,
+     "startFrame": 41403,
+     "endFrame": 41572,
+     "asset": "tower_employer_2f007b6e_2K.jpg",
+     "assetHandle": "tower_employer",
+     "assetPath": "images/tower_employer_2f007b6e_2K.jpg",
+     "camera": "pushIn",
+     "hud": "one",
+     "hudAnchors": [
+      {
+       "x": 50.0,
+       "y": 74.0,
+       "v": 912
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": false,
+     "note": "the employer wants your salary visible",
+     "globalIndex": 97
+    },
+    {
+     "index": 6,
+     "start": 692.86,
+     "end": 694.92,
+     "duration": 2.06,
+     "startFrame": 41572,
+     "endFrame": 41695,
+     "asset": "Citizens_trapped_beneath_obsidia…_0c4d7e64_2K.jpg",
+     "assetHandle": "monolith_3",
+     "assetPath": "images/Citizens_trapped_beneath_obsidia…_0c4d7e64_2K.jpg",
+     "camera": "pushIn",
+     "hud": "drop",
+     "hudAnchors": [
+      {
+       "x": 24.5,
+       "y": 78,
+       "v": 96.4
+      },
+      {
+       "x": 49.5,
+       "y": 78,
+       "v": 41.1
+      },
+      {
+       "x": 75.5,
+       "y": 78,
+       "v": 12.8
+      }
+     ],
+     "hudFall": true,
+     "blank": false,
+     "cutOnBreath": false,
+     "note": "the bank wants your spending visible",
+     "globalIndex": 98
+    },
+    {
+     "index": 7,
+     "start": 694.92,
+     "end": 700.93,
+     "duration": 6.01,
+     "startFrame": 41695,
+     "endFrame": 42056,
+     "asset": "tower_platform_3d732fdb_2K.jpg",
+     "assetHandle": "tower_platform",
+     "assetPath": "images/tower_platform_3d732fdb_2K.jpg",
+     "camera": "pushIn",
+     "hud": "one",
+     "hudAnchors": [
+      {
+       "x": 50.0,
+       "y": 80.0,
+       "v": 1240
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": true,
+     "note": "the platform wants your preferences visible",
+     "globalIndex": 99
+    },
+    {
+     "index": 8,
+     "start": 700.93,
+     "end": 707.0,
+     "duration": 6.06,
+     "startFrame": 42056,
+     "endFrame": 42420,
+     "asset": "Monolith_towers_with_paper_figures_b47f3afa_2K.jpg",
+     "assetHandle": "towers_named",
+     "assetPath": "images/Monolith_towers_with_paper_figures_b47f3afa_2K.jpg",
+     "camera": "pushIn",
+     "hud": "drop",
+     "hudAnchors": [
+      {
+       "x": 16,
+       "y": 80,
+       "v": 96.4
+      },
+      {
+       "x": 50,
+       "y": 60,
+       "v": 41.1
+      },
+      {
+       "x": 83,
+       "y": 81,
+       "v": 12.8
+      }
+     ],
+     "hudFall": true,
+     "blank": false,
+     "cutOnBreath": true,
+     "note": "Employer. Bank. Platform.",
+     "globalIndex": 100
+    },
+    {
+     "index": 9,
+     "start": 707.0,
+     "end": 712.92,
+     "duration": 5.93,
+     "startFrame": 42420,
+     "endFrame": 42775,
+     "asset": "Pedestrians_crossing_street_in_c…_ad7bd941_2K.jpg",
+     "assetHandle": "crosswalk",
+     "assetPath": "images/Pedestrians_crossing_street_in_c…_ad7bd941_2K.jpg",
+     "camera": "pushIn",
+     "hud": "hero",
+     "hudAnchors": [
+      {
+       "x": 66.3,
+       "y": 35.2,
+       "v": 4820000
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": false,
+     "note": "hold. she keeps walking",
+     "globalIndex": 101
+    }
+   ]
+  },
+  {
+   "id": "act6",
+   "title": "ACT SIX WE DID THIS ALREADY",
+   "start": 712.921,
+   "end": 786.5,
+   "duration": 73.579,
+   "color": {
+    "bg": "#F4F1EA",
+    "accent": "#1A1A1A",
+    "temp": "white",
+    "name": "Museum Gallery White"
+   },
+   "chapterPause": 2.5,
+   "shots": [
+    {
+     "index": 1,
+     "start": 712.92,
+     "end": 721.4,
+     "duration": 8.48,
+     "startFrame": 42775,
+     "endFrame": 43284,
+     "asset": "Paper_cutout_citizen_with_smartp…_d83a7b92_2K.jpg",
+     "assetHandle": "citizen_phone",
+     "assetPath": "images/Paper_cutout_citizen_with_smartp…_d83a7b92_2K.jpg",
+     "camera": "pushIn",
+     "hud": "one",
+     "hudAnchors": [
+      {
+       "x": 49.5,
+       "y": 57,
+       "v": 250000
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": true,
+     "note": "GALLERY WHITE. dead center",
+     "globalIndex": 102
+    },
+    {
+     "index": 2,
+     "start": 721.4,
+     "end": 726.72,
+     "duration": 5.32,
+     "startFrame": 43284,
+     "endFrame": 43603,
+     "asset": "Paper_cutout_citizen_with_smartp…_d83a7b92_2K.jpg",
+     "assetHandle": "citizen_phone",
+     "assetPath": "images/Paper_cutout_citizen_with_smartp…_d83a7b92_2K.jpg",
+     "camera": "craneUp",
+     "hud": "one",
+     "hudAnchors": [
+      {
+       "x": 49.5,
+       "y": 57,
+       "v": 250000
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": true,
+     "note": "the phone frame above",
+     "globalIndex": 103
+    },
+    {
+     "index": 3,
+     "start": 726.72,
+     "end": 729.4,
+     "duration": 2.68,
+     "startFrame": 43603,
+     "endFrame": 43764,
+     "asset": "Paper_cutout_citizen_with_smartp…_d83a7b92_2K.jpg",
+     "assetHandle": "citizen_phone",
+     "assetPath": "images/Paper_cutout_citizen_with_smartp…_d83a7b92_2K.jpg",
+     "camera": "pushIn",
+     "hud": "one",
+     "hudAnchors": [
+      {
+       "x": 49.5,
+       "y": 57,
+       "v": 250000
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": true,
+     "note": "vignettes scroll",
+     "globalIndex": 104
+    },
+    {
+     "index": 4,
+     "start": 729.4,
+     "end": 734.26,
+     "duration": 4.86,
+     "startFrame": 43764,
+     "endFrame": 44056,
+     "asset": "Paper_cutout_citizen_with_smartp…_d83a7b92_2K.jpg",
+     "assetHandle": "citizen_phone",
+     "assetPath": "images/Paper_cutout_citizen_with_smartp…_d83a7b92_2K.jpg",
+     "camera": "snapZoom",
+     "hud": "one",
+     "hudAnchors": [
+      {
+       "x": 49.5,
+       "y": 57,
+       "v": 250000
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": false,
+     "note": "the feed",
+     "globalIndex": 105
+    },
+    {
+     "index": 5,
+     "start": 734.26,
+     "end": 736.22,
+     "duration": 1.96,
+     "startFrame": 44056,
+     "endFrame": 44173,
+     "asset": "feed_missing_f262444c_2K.jpg",
+     "assetHandle": "feed_missing",
+     "assetPath": "images/feed_missing_f262444c_2K.jpg",
+     "camera": "rackFocus",
+     "hud": "none",
+     "hudAnchors": [],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": false,
+     "note": "the renovation, the concert",
+     "globalIndex": 106
+    },
+    {
+     "index": 6,
+     "start": 736.22,
+     "end": 741.18,
+     "duration": 4.96,
+     "startFrame": 44173,
+     "endFrame": 44471,
+     "asset": "Paper_smartphone_scrolling_lifes…_2bad7ef7_2K.jpg",
+     "assetHandle": "feed_stmt",
+     "assetPath": "images/Paper_smartphone_scrolling_lifes…_2bad7ef7_2K.jpg",
+     "camera": "dollyLateral",
+     "hud": "one",
+     "hudAnchors": [
+      {
+       "x": 21.5,
+       "y": 44,
+       "v": 250000
+      },
+      {
+       "x": 79,
+       "y": 22,
+       "v": -4200
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": true,
+     "note": "what he shows / what is left",
+     "globalIndex": 107
+    },
+    {
+     "index": 7,
+     "start": 741.18,
+     "end": 746.27,
+     "duration": 5.09,
+     "startFrame": 44471,
+     "endFrame": 44776,
+     "asset": "Paper_smartphone_scrolling_lifes…_2bad7ef7_2K.jpg",
+     "assetHandle": "feed_stmt",
+     "assetPath": "images/Paper_smartphone_scrolling_lifes…_2bad7ef7_2K.jpg",
+     "camera": "pushIn",
+     "hud": "one",
+     "hudAnchors": [
+      {
+       "x": 21.5,
+       "y": 44,
+       "v": 250000
+      },
+      {
+       "x": 79,
+       "y": 22,
+       "v": -4200
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": false,
+     "note": "the feed, priced",
+     "globalIndex": 108
+    },
+    {
+     "index": 8,
+     "start": 746.27,
+     "end": 750.86,
+     "duration": 4.58,
+     "startFrame": 44776,
+     "endFrame": 45051,
+     "asset": "Paper_smartphone_scrolling_lifes…_2bad7ef7_2K.jpg",
+     "assetHandle": "feed_stmt",
+     "assetPath": "images/Paper_smartphone_scrolling_lifes…_2bad7ef7_2K.jpg",
+     "camera": "rackFocus",
+     "hud": "one",
+     "hudAnchors": [
+      {
+       "x": 21.5,
+       "y": 44,
+       "v": 250000
+      },
+      {
+       "x": 79,
+       "y": 22,
+       "v": -4200
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": false,
+     "note": "focus leaves the feed, finds the statement",
+     "globalIndex": 109
+    },
+    {
+     "index": 9,
+     "start": 750.86,
+     "end": 756.06,
+     "duration": 5.21,
+     "startFrame": 45051,
+     "endFrame": 45364,
+     "asset": "Paper_cutout_citizen_with_smartp…_d83a7b92_2K.jpg",
+     "assetHandle": "citizen_phone",
+     "assetPath": "images/Paper_cutout_citizen_with_smartp…_d83a7b92_2K.jpg",
+     "camera": "pushIn",
+     "hud": "one",
+     "hudAnchors": [
+      {
+       "x": 49.5,
+       "y": 57,
+       "v": 250000
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": true,
+     "note": "he performs",
+     "globalIndex": 110
+    },
+    {
+     "index": 10,
+     "start": 756.06,
+     "end": 761.64,
+     "duration": 5.58,
+     "startFrame": 45364,
+     "endFrame": 45698,
+     "asset": "Paper_cutout_comparison_scene_fccf075c_2K.jpg",
+     "assetHandle": "relief",
+     "assetPath": "images/Paper_cutout_comparison_scene_fccf075c_2K.jpg",
+     "camera": "pushIn",
+     "hud": "one",
+     "hudAnchors": [
+      {
+       "x": 28.3,
+       "y": 24.8,
+       "v": 250000.0
+      },
+      {
+       "x": 77.4,
+       "y": 27.5,
+       "v": -4200.0
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": false,
+     "note": "she does not",
+     "globalIndex": 111
+    },
+    {
+     "index": 11,
+     "start": 761.64,
+     "end": 764.69,
+     "duration": 3.04,
+     "startFrame": 45698,
+     "endFrame": 45881,
+     "asset": "Paper_cutout_citizen_with_smartp…_d83a7b92_2K.jpg",
+     "assetHandle": "citizen_phone",
+     "assetPath": "images/Paper_cutout_citizen_with_smartp…_d83a7b92_2K.jpg",
+     "camera": "crashZoom",
+     "hud": "one",
+     "hudAnchors": [
+      {
+       "x": 49.5,
+       "y": 57,
+       "v": 250000
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": false,
+     "note": "a like counter",
+     "globalIndex": 112
+    },
+    {
+     "index": 12,
+     "start": 764.69,
+     "end": 768.74,
+     "duration": 4.06,
+     "startFrame": 45881,
+     "endFrame": 46125,
+     "asset": "Paper_smartphone_scrolling_lifes…_2bad7ef7_2K.jpg",
+     "assetHandle": "feed_stmt",
+     "assetPath": "images/Paper_smartphone_scrolling_lifes…_2bad7ef7_2K.jpg",
+     "camera": "dutchTilt",
+     "hud": "one",
+     "hudAnchors": [
+      {
+       "x": 21.5,
+       "y": 44,
+       "v": 250000
+      },
+      {
+       "x": 79,
+       "y": 22,
+       "v": -4200
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": false,
+     "note": "the statement tilts",
+     "globalIndex": 113
+    },
+    {
+     "index": 13,
+     "start": 768.74,
+     "end": 771.4,
+     "duration": 2.66,
+     "startFrame": 46125,
+     "endFrame": 46284,
+     "asset": "Paper_cutout_citizen_with_smartp…_d83a7b92_2K.jpg",
+     "assetHandle": "citizen_phone",
+     "assetPath": "images/Paper_cutout_citizen_with_smartp…_d83a7b92_2K.jpg",
+     "camera": "pushIn",
+     "hud": "one",
+     "hudAnchors": [
+      {
+       "x": 49.5,
+       "y": 57,
+       "v": 250000
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": false,
+     "note": "hold the gloss",
+     "globalIndex": 114
+    },
+    {
+     "index": 14,
+     "start": 771.4,
+     "end": 774.32,
+     "duration": 2.92,
+     "startFrame": 46284,
+     "endFrame": 46459,
+     "asset": "borrowed_proof_679d0e3a_2K.jpg",
+     "assetHandle": "borrowed_proof",
+     "assetPath": "images/borrowed_proof_679d0e3a_2K.jpg",
+     "camera": "pushIn",
+     "hud": "one",
+     "hudAnchors": [
+      {
+       "x": 76.0,
+       "y": 16.0,
+       "v": 114.2
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": false,
+     "note": "the leased car and the borrowed watch",
+     "globalIndex": 115
+    },
+    {
+     "index": 15,
+     "start": 774.32,
+     "end": 779.48,
+     "duration": 5.16,
+     "startFrame": 46459,
+     "endFrame": 46769,
+     "asset": "Paper_cutout_comparison_scene_fccf075c_2K.jpg",
+     "assetHandle": "relief",
+     "assetPath": "images/Paper_cutout_comparison_scene_fccf075c_2K.jpg",
+     "camera": "pushIn",
+     "hud": "one",
+     "hudAnchors": [
+      {
+       "x": 28.3,
+       "y": 24.8,
+       "v": 250000.0
+      },
+      {
+       "x": 77.4,
+       "y": 27.5,
+       "v": -4200.0
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": true,
+     "note": "hold the stillness",
+     "globalIndex": 116
+    },
+    {
+     "index": 16,
+     "start": 779.48,
+     "end": 786.5,
+     "duration": 7.02,
+     "startFrame": 46769,
+     "endFrame": 47190,
+     "asset": "Paper_cutout_citizen_with_smartp…_d83a7b92_2K.jpg",
+     "assetHandle": "citizen_phone",
+     "assetPath": "images/Paper_cutout_citizen_with_smartp…_d83a7b92_2K.jpg",
+     "camera": "pushIn",
+     "hud": "one",
+     "hudAnchors": [
+      {
+       "x": 49.5,
+       "y": 57,
+       "v": 250000
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": false,
+     "note": "we built this already",
+     "globalIndex": 117
+    }
+   ]
+  },
+  {
+   "id": "act7",
+   "title": "ACT SEVEN THE OPT-IN",
+   "start": 786.5,
+   "end": 842.708,
+   "duration": 56.208,
+   "color": {
+    "bg": "#2A2A2E",
+    "accent": "#4ADE80",
+    "temp": "cold",
+    "name": "Stage Black & Switch Green"
+   },
+   "chapterPause": 2.5,
+   "shots": [
+    {
+     "index": 1,
+     "start": 786.5,
+     "end": 795.48,
+     "duration": 8.98,
+     "startFrame": 47190,
+     "endFrame": 47729,
+     "asset": "Hand_approaching_paper_toggle_sw…_a180475f_2K.jpg",
+     "assetHandle": "toggle",
+     "assetPath": "images/Hand_approaching_paper_toggle_sw…_a180475f_2K.jpg",
+     "camera": "pushIn",
+     "hud": "none",
+     "hudAnchors": [],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": false,
+     "note": "macro. the switch",
+     "globalIndex": 118
+    },
+    {
+     "index": 2,
+     "start": 795.48,
+     "end": 799.92,
+     "duration": 4.44,
+     "startFrame": 47729,
+     "endFrame": 47995,
+     "asset": "Hands_interacting_with_toggle_sw…_609fd12c_2K.jpg",
+     "assetHandle": "toggle_hands",
+     "assetPath": "images/Hands_interacting_with_toggle_sw…_609fd12c_2K.jpg",
+     "camera": "handheldDrift",
+     "hud": "none",
+     "hudAnchors": [],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": true,
+     "note": "a finger hesitates",
+     "globalIndex": 119
+    },
+    {
+     "index": 3,
+     "start": 799.92,
+     "end": 803.52,
+     "duration": 3.6,
+     "startFrame": 47995,
+     "endFrame": 48211,
+     "asset": "Hand_approaching_paper_toggle_sw…_a180475f_2K.jpg",
+     "assetHandle": "toggle",
+     "assetPath": "images/Hand_approaching_paper_toggle_sw…_a180475f_2K.jpg",
+     "camera": "rackFocus",
+     "hud": "none",
+     "hudAnchors": [],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": true,
+     "note": "crimson left, emerald right",
+     "globalIndex": 120
+    },
+    {
+     "index": 4,
+     "start": 803.52,
+     "end": 805.88,
+     "duration": 2.36,
+     "startFrame": 48211,
+     "endFrame": 48353,
+     "asset": "Paper_figures_under_spotlights_7c2f68a1_2K.jpg",
+     "assetHandle": "spotlights",
+     "assetPath": "images/Paper_figures_under_spotlights_7c2f68a1_2K.jpg",
+     "camera": "craneUp",
+     "hud": "one",
+     "hudAnchors": [
+      {
+       "x": 16.5,
+       "y": 23.8,
+       "v": 2400000,
+       "s": 0.78
+      },
+      {
+       "x": 42.1,
+       "y": 33.0,
+       "v": 7400,
+       "s": 0.78
+      },
+      {
+       "x": 46.5,
+       "y": 36.0,
+       "v": 11200,
+       "s": 0.78
+      },
+      {
+       "x": 51.0,
+       "y": 31.0,
+       "v": 15900,
+       "s": 0.78
+      },
+      {
+       "x": 54.8,
+       "y": 36.0,
+       "v": 18000,
+       "s": 0.78
+      },
+      {
+       "x": 58.9,
+       "y": 33.0,
+       "v": 3200,
+       "s": 0.78
+      },
+      {
+       "x": 85.5,
+       "y": 29.5,
+       "v": 11.5,
+       "s": 0.78
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": true,
+     "note": "triptych",
+     "globalIndex": 121
+    },
+    {
+     "index": 5,
+     "start": 805.88,
+     "end": 808.42,
+     "duration": 2.54,
+     "startFrame": 48353,
+     "endFrame": 48505,
+     "asset": "opts_yes_rich_27a705c7_2K.jpg",
+     "assetHandle": "opts_yes_rich",
+     "assetPath": "images/opts_yes_rich_27a705c7_2K.jpg",
+     "camera": "craneUp",
+     "hud": "one",
+     "hudAnchors": [
+      {
+       "x": 50.0,
+       "y": 32.0,
+       "v": 2400000
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": false,
+     "note": "a high number says yes — an advertisement",
+     "globalIndex": 122
+    },
+    {
+     "index": 6,
+     "start": 808.42,
+     "end": 813.32,
+     "duration": 4.9,
+     "startFrame": 48505,
+     "endFrame": 48799,
+     "asset": "Paper_figures_under_spotlights_7c2f68a1_2K.jpg",
+     "assetHandle": "spotlights",
+     "assetPath": "images/Paper_figures_under_spotlights_7c2f68a1_2K.jpg",
+     "camera": "dollyLateral",
+     "hud": "one",
+     "hudAnchors": [
+      {
+       "x": 16.5,
+       "y": 23.8,
+       "v": 2400000,
+       "s": 0.78
+      },
+      {
+       "x": 42.1,
+       "y": 33.0,
+       "v": 7400,
+       "s": 0.78
+      },
+      {
+       "x": 46.5,
+       "y": 36.0,
+       "v": 11200,
+       "s": 0.78
+      },
+      {
+       "x": 51.0,
+       "y": 31.0,
+       "v": 15900,
+       "s": 0.78
+      },
+      {
+       "x": 54.8,
+       "y": 36.0,
+       "v": 18000,
+       "s": 0.78
+      },
+      {
+       "x": 58.9,
+       "y": 33.0,
+       "v": 3200,
+       "s": 0.78
+      },
+      {
+       "x": 85.5,
+       "y": 29.5,
+       "v": 11.5,
+       "s": 0.78
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": false,
+     "note": "wealth / huddle / poverty",
+     "globalIndex": 123
+    },
+    {
+     "index": 7,
+     "start": 813.32,
+     "end": 815.64,
+     "duration": 2.33,
+     "startFrame": 48799,
+     "endFrame": 48939,
+     "asset": "opts_yes_poor_08ff37c8_2K.jpg",
+     "assetHandle": "opts_yes_poor",
+     "assetPath": "images/opts_yes_poor_08ff37c8_2K.jpg",
+     "camera": "pushIn",
+     "hud": "one",
+     "hudAnchors": [
+      {
+       "x": 50.0,
+       "y": 30.0,
+       "v": 11.5
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": false,
+     "note": "the exhaustion of hiding",
+     "globalIndex": 124
+    },
+    {
+     "index": 8,
+     "start": 815.64,
+     "end": 819.16,
+     "duration": 3.52,
+     "startFrame": 48939,
+     "endFrame": 49150,
+     "asset": "Paper_figures_under_spotlights_7c2f68a1_2K.jpg",
+     "assetHandle": "spotlights",
+     "assetPath": "images/Paper_figures_under_spotlights_7c2f68a1_2K.jpg",
+     "camera": "pushIn",
+     "hud": "hero",
+     "hudAnchors": [
+      {
+       "x": 42.1,
+       "y": 33.0,
+       "v": 3200,
+       "s": 0.78
+      },
+      {
+       "x": 46.5,
+       "y": 36.0,
+       "v": 7400,
+       "s": 0.78
+      },
+      {
+       "x": 51.0,
+       "y": 31.0,
+       "v": 11200,
+       "s": 0.78
+      },
+      {
+       "x": 54.8,
+       "y": 36.0,
+       "v": 15900,
+       "s": 0.78
+      },
+      {
+       "x": 58.9,
+       "y": 33.0,
+       "v": 18000,
+       "s": 0.78
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": true,
+     "note": "the five in the middle",
+     "globalIndex": 125
+    },
+    {
+     "index": 9,
+     "start": 819.16,
+     "end": 826.3,
+     "duration": 7.14,
+     "startFrame": 49150,
+     "endFrame": 49578,
+     "asset": "Hands_interacting_with_toggle_sw…_609fd12c_2K.jpg",
+     "assetHandle": "toggle_hands",
+     "assetPath": "images/Hands_interacting_with_toggle_sw…_609fd12c_2K.jpg",
+     "camera": "pushIn",
+     "hud": "none",
+     "hudAnchors": [],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": true,
+     "note": "she decides",
+     "globalIndex": 126
+    },
+    {
+     "index": 10,
+     "start": 826.3,
+     "end": 829.2,
+     "duration": 2.9,
+     "startFrame": 49578,
+     "endFrame": 49752,
+     "asset": "Paper_figures_under_spotlights_7c2f68a1_2K.jpg",
+     "assetHandle": "spotlights",
+     "assetPath": "images/Paper_figures_under_spotlights_7c2f68a1_2K.jpg",
+     "camera": "snapZoom",
+     "hud": "one",
+     "hudAnchors": [
+      {
+       "x": 16.5,
+       "y": 23.8,
+       "v": 2400000,
+       "s": 0.78
+      },
+      {
+       "x": 42.1,
+       "y": 33.0,
+       "v": 7400,
+       "s": 0.78
+      },
+      {
+       "x": 46.5,
+       "y": 36.0,
+       "v": 11200,
+       "s": 0.78
+      },
+      {
+       "x": 51.0,
+       "y": 31.0,
+       "v": 15900,
+       "s": 0.78
+      },
+      {
+       "x": 54.8,
+       "y": 36.0,
+       "v": 18000,
+       "s": 0.78
+      },
+      {
+       "x": 58.9,
+       "y": 33.0,
+       "v": 3200,
+       "s": 0.78
+      },
+      {
+       "x": 85.5,
+       "y": 29.5,
+       "v": 11.5,
+       "s": 0.78
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": true,
+     "note": "shoulders drop in relief",
+     "globalIndex": 127
+    },
+    {
+     "index": 11,
+     "start": 829.2,
+     "end": 832.48,
+     "duration": 3.28,
+     "startFrame": 49752,
+     "endFrame": 49949,
+     "asset": "Hands_interacting_with_toggle_sw…_609fd12c_2K.jpg",
+     "assetHandle": "toggle_hands",
+     "assetPath": "images/Hands_interacting_with_toggle_sw…_609fd12c_2K.jpg",
+     "camera": "pushIn",
+     "hud": "none",
+     "hudAnchors": [],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": true,
+     "note": "the vellum falls",
+     "globalIndex": 128
+    },
+    {
+     "index": 12,
+     "start": 832.48,
+     "end": 837.37,
+     "duration": 4.89,
+     "startFrame": 49949,
+     "endFrame": 50242,
+     "asset": "Paper_figures_under_spotlights_7c2f68a1_2K.jpg",
+     "assetHandle": "spotlights",
+     "assetPath": "images/Paper_figures_under_spotlights_7c2f68a1_2K.jpg",
+     "camera": "pushIn",
+     "hud": "hero",
+     "hudAnchors": [
+      {
+       "x": 42.1,
+       "y": 33.0,
+       "v": 3200,
+       "s": 0.78
+      },
+      {
+       "x": 46.5,
+       "y": 36.0,
+       "v": 7400,
+       "s": 0.78
+      },
+      {
+       "x": 51.0,
+       "y": 31.0,
+       "v": 11200,
+       "s": 0.78
+      },
+      {
+       "x": 54.8,
+       "y": 36.0,
+       "v": 15900,
+       "s": 0.78
+      },
+      {
+       "x": 58.9,
+       "y": 33.0,
+       "v": 18000,
+       "s": 0.78
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": false,
+     "note": "hold the huddle",
+     "globalIndex": 129
+    },
+    {
+     "index": 13,
+     "start": 837.37,
+     "end": 839.63,
+     "duration": 2.26,
+     "startFrame": 50242,
+     "endFrame": 50378,
+     "asset": "Hands_interacting_with_toggle_sw…_609fd12c_2K.jpg",
+     "assetHandle": "toggle_hands",
+     "assetPath": "images/Hands_interacting_with_toggle_sw…_609fd12c_2K.jpg",
+     "camera": "pushIn",
+     "hud": "none",
+     "hudAnchors": [],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": false,
+     "note": "hold the hand",
+     "globalIndex": 130
+    },
+    {
+     "index": 14,
+     "start": 839.63,
+     "end": 841.55,
+     "duration": 1.92,
+     "startFrame": 50378,
+     "endFrame": 50493,
+     "asset": "bad_year_veil_a9583e53_2K.jpg",
+     "assetHandle": "bad_year_veil",
+     "assetPath": "images/bad_year_veil_a9583e53_2K.jpg",
+     "camera": "craneUp",
+     "hud": "none",
+     "hudAnchors": [],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": false,
+     "note": "a bad year, without the announcement",
+     "globalIndex": 131
+    },
+    {
+     "index": 15,
+     "start": 841.55,
+     "end": 842.71,
+     "duration": 1.16,
+     "startFrame": 50493,
+     "endFrame": 50562,
+     "asset": "Hands_interacting_with_toggle_sw…_609fd12c_2K.jpg",
+     "assetHandle": "toggle_hands",
+     "assetPath": "images/Hands_interacting_with_toggle_sw…_609fd12c_2K.jpg",
+     "camera": "pushIn",
+     "hud": "none",
+     "hudAnchors": [],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": false,
+     "note": "the hand, after the veil",
+     "globalIndex": 132
+    }
+   ]
+  },
+  {
+   "id": "close",
+   "title": "CLOSE",
+   "start": 842.708,
+   "end": 896.337,
+   "duration": 53.629,
+   "color": {
+    "bg": "#1F1A16",
+    "accent": "#C9913D",
+    "temp": "cooled",
+    "name": "Cooled Amber"
+   },
+   "chapterPause": 0.0,
+   "shots": [
+    {
+     "index": 1,
+     "start": 842.71,
+     "end": 850.69,
+     "duration": 7.98,
+     "startFrame": 50562,
+     "endFrame": 51041,
+     "asset": "Six_adults_eating_at_restaurant_81847176.jpg",
+     "assetHandle": "dinner_wide",
+     "assetPath": "images/Six_adults_eating_at_restaurant_81847176.jpg",
+     "camera": "pushIn",
+     "hud": "none",
+     "hudAnchors": [],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": true,
+     "note": "same table. warmer. no numbers",
+     "globalIndex": 133
+    },
+    {
+     "index": 2,
+     "start": 850.69,
+     "end": 855.71,
+     "duration": 5.02,
+     "startFrame": 51041,
+     "endFrame": 51342,
+     "asset": "Friends_dining_at_restaurant_table_80061dc6.jpg",
+     "assetHandle": "dinner_alt",
+     "assetPath": "images/Friends_dining_at_restaurant_table_80061dc6.jpg",
+     "camera": "dollyLateral",
+     "hud": "none",
+     "hudAnchors": [],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": true,
+     "note": "eye contact, finally",
+     "globalIndex": 134
+    },
+    {
+     "index": 3,
+     "start": 855.71,
+     "end": 861.09,
+     "duration": 5.38,
+     "startFrame": 51342,
+     "endFrame": 51666,
+     "asset": "Hands_resting_near_restaurant_bill_bd20dbf1.jpg",
+     "assetHandle": "bill",
+     "assetPath": "images/Hands_resting_near_restaurant_bill_bd20dbf1.jpg",
+     "camera": "pushIn",
+     "hud": "none",
+     "hudAnchors": [],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": false,
+     "note": "a hand rests on the folder",
+     "globalIndex": 135
+    },
+    {
+     "index": 4,
+     "start": 861.09,
+     "end": 866.93,
+     "duration": 5.84,
+     "startFrame": 51666,
+     "endFrame": 52016,
+     "asset": "Dinner_guests_sitting_together_c051a246_2K (1).jpg",
+     "assetHandle": "dinner_3shot",
+     "assetPath": "images/Dinner_guests_sitting_together_c051a246_2K (1).jpg",
+     "camera": "pushIn",
+     "hud": "none",
+     "hudAnchors": [],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": true,
+     "note": "manners, restored",
+     "globalIndex": 136
+    },
+    {
+     "index": 5,
+     "start": 866.93,
+     "end": 871.73,
+     "duration": 4.8,
+     "startFrame": 52016,
+     "endFrame": 52304,
+     "asset": "Six_adults_eating_at_restaurant_81847176.jpg",
+     "assetHandle": "dinner_wide",
+     "assetPath": "images/Six_adults_eating_at_restaurant_81847176.jpg",
+     "camera": "orbit",
+     "hud": "none",
+     "hudAnchors": [],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": true,
+     "note": "the room breathes",
+     "globalIndex": 137
+    },
+    {
+     "index": 6,
+     "start": 871.73,
+     "end": 877.25,
+     "duration": 5.52,
+     "startFrame": 52304,
+     "endFrame": 52635,
+     "asset": "Paper_men_looking_upward_2635b834_2K.jpg",
+     "assetHandle": "looking_up",
+     "assetPath": "images/Paper_men_looking_upward_2635b834_2K.jpg",
+     "camera": "craneUp",
+     "hud": "none",
+     "hudAnchors": [],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": true,
+     "note": "they look up, together",
+     "globalIndex": 138
+    },
+    {
+     "index": 7,
+     "start": 877.25,
+     "end": 879.48,
+     "duration": 2.23,
+     "startFrame": 52635,
+     "endFrame": 52769,
+     "asset": "Six_people_dining_at_table_45944cf1_2K.jpg",
+     "assetHandle": "dinner_side",
+     "assetPath": "images/Six_people_dining_at_table_45944cf1_2K.jpg",
+     "camera": "pushIn",
+     "hud": "none",
+     "hudAnchors": [],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": true,
+     "note": "the lamp",
+     "globalIndex": 139
+    },
+    {
+     "index": 8,
+     "start": 879.48,
+     "end": 882.55,
+     "duration": 3.07,
+     "startFrame": 52769,
+     "endFrame": 52953,
+     "asset": "unremarkable_288dfee9_2K.jpg",
+     "assetHandle": "unremarkable",
+     "assetPath": "images/unremarkable_288dfee9_2K.jpg",
+     "camera": "handheldDrift",
+     "hud": "none",
+     "hudAnchors": [],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": false,
+     "note": "allowed to be unremarkable in public",
+     "globalIndex": 140
+    },
+    {
+     "index": 9,
+     "start": 882.55,
+     "end": 887.52,
+     "duration": 4.97,
+     "startFrame": 52953,
+     "endFrame": 53251,
+     "asset": "Six_adults_eating_at_restaurant_81847176.jpg",
+     "assetHandle": "dinner_wide",
+     "assetPath": "images/Six_adults_eating_at_restaurant_81847176.jpg",
+     "camera": "pushIn",
+     "hud": "one",
+     "hudAnchors": [
+      {
+       "x": 73.7,
+       "y": 36.0,
+       "v": 43.18
+      }
+     ],
+     "hudFall": false,
+     "blank": false,
+     "cutOnBreath": false,
+     "note": "one counter flickers",
+     "globalIndex": 141
+    },
+    {
+     "index": 10,
+     "start": 887.52,
+     "end": 890.88,
+     "duration": 3.36,
+     "startFrame": 53251,
+     "endFrame": 53453,
+     "asset": "Six_adults_eating_at_restaurant_81847176.jpg",
+     "assetHandle": "dinner_wide",
+     "assetPath": "images/Six_adults_eating_at_restaurant_81847176.jpg",
+     "camera": "pushIn",
+     "hud": "drop",
+     "hudAnchors": [
+      {
+       "x": 50,
+       "y": 26,
+       "v": 1402,
+       "label": "LIES",
+       "fmt": "count"
+      }
+     ],
+     "hudFall": true,
+     "blank": false,
+     "cutOnBreath": false,
+     "note": "LIES: 1,402",
+     "globalIndex": 142
+    },
+    {
+     "index": 11,
+     "start": 890.88,
+     "end": 896.34,
+     "duration": 5.46,
+     "startFrame": 53453,
+     "endFrame": 53780,
+     "asset": "Six_adults_eating_at_restaurant_81847176.jpg",
+     "assetHandle": "dinner_wide",
+     "assetPath": "images/Six_adults_eating_at_restaurant_81847176.jpg",
+     "camera": "pushIn",
+     "hud": "none",
+     "hudAnchors": [],
+     "hudFall": false,
+     "blank": true,
+     "cutOnBreath": false,
+     "note": "cut to black",
+     "globalIndex": 143
+    }
+   ]
+  }
+ ]
+}

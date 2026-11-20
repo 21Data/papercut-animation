@@ -1,0 +1,14 @@
+node_modules/
+out/
+
+# Source plates and long music generations. The render uses public/.
+/images/
+/images upscaled/
+/image overlay/
+/score/
+/voiceover/
+
+# Working notes and one-off scripts. Not needed to render.
+/tools/
+/.claude/
+/.cursor/
