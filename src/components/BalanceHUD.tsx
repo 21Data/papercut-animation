@@ -70,19 +70,18 @@ function cueTimes(shot: Shot, fps: number): number[] {
   if (n === 0) return [];
 
   if (shot.assetHandle === 'earth_crowd') {
-    const earthAt = 50.613 - shot.start;
-    const visibleEnd = 53.093 - shot.start;
-    const first = Math.max(0.08, earthAt);
-    const last = Math.max(first + 0.4, Math.min(shot.duration - 0.12, visibleEnd));
-    const span = Math.max(0.4, last - first);
-    // Stable shuffle so chips do not fill left-to-right like a scanline.
-    const order = anchors.map((_, i) => i).sort((a, b) => ((a * 7 + 3) % n) - ((b * 7 + 3) % n));
-    const at = new Array<number>(n);
-    for (let r = 0; r < n; r++) {
-      const u = n === 1 ? 0 : r / (n - 1);
-      at[order[r]] = first + span * (u * u);
-    }
-    return at;
+    // Every crown, in no reading order. A fixed hash so the pops stay put
+    // across renders and do not march left to right.
+    const first = 0.35;
+    const last = Math.max(first + 0.6, Math.min(shot.duration - 0.4, shot.duration * 0.72));
+    return anchors.map((_, i) => {
+      let h = Math.imul(i + 1, 0x9e3779b1);
+      h = Math.imul(h ^ (h >>> 16), 0x85ebca6b);
+      h = Math.imul(h ^ (h >>> 13), 0xc2b2ae35);
+      h ^= h >>> 16;
+      const u = (h >>> 0) / 4294967296;
+      return first + u * (last - first);
+    });
   }
 
   // Anchors are already stored left to right, one per person. Re-sorting by
